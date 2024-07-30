@@ -4,9 +4,9 @@
 - default: menu_category
   url: 'categories'
 
-- title: 'Jekyll Paper for Github'
+- title: 'Pinealai'
   absoluteUrl: true
-  url: 'https://github.com/ghosind/Jekyll-Paper-Github'
+  url: 'https://anvi98.github.io'
 
 - default: menu_about
   url: 'about'
