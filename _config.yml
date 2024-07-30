@@ -2,11 +2,11 @@
 #
 # This is the configuration file for your blog, please change these items after forked.
 
-title: 'Pinealai' 
+title: Pinealai 
 email: e.anvi@pinealai.net
 name: Anvi Alex Eponon 
 description:  # this means to ignore newlines until "baseurl:"
-  We cannot create intelligence, but at least we can use it and mimic it.
+  We cannot create intelligence, but at least we can play with it and imitate it.
 keywords: [AI, NLP, ML, DL, Brain, Neuroscience, Brain computer internface]
 baseurl: '' # the subpath of your site, e.g. /`blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
