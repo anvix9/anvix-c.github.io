@@ -18,19 +18,23 @@ Current and upcoming monographs:
 
 
 
-- [Monograph #1: Genesis of Science and relationship with artificial intelligence.](http://example.com/item1)
-- [Monograph #2: Representations – Far from Reality, Yet So Close Ever…](http://example.com/item2)
-- [Monograph #3: Philosophy or intuition, Mother of Science.](http://example.com/item3)
-- [Monograph #4: Art and Religion, where are you?]()
+- [Monograph #1: Genesis of Science and relationship with artificial intelligence.](anvi98.github.io/2024/01/03/monograph-1-Genesis-of-science-and-relationship-with-artificial-intelligence)
+- [Monograph #2: Representations – Far from Reality, Yet So Close Ever…](anvi98.github.io/2024/02/26/monograph-2monograph-2-Representations-far-from-reality-yet-so-close-ever)
+- [Monograph #3: Philosophy or intuition, Mother of Science.](anvi98.github.io/2024/06/22/monograph-3-philosophy-or-intuition-mother-of-science)
+- [Monograph #4: Art and Religion, where are you?](anvi98.github.io/2024/08/07/monograph-4-art-and-religion-where-are-you?)
 
  
 # Abstract-Like
+<p style="text-align: justify;">
 As we talk about artificial intelligence and dive deep into the technical aspect of what this science is about, we will understand the purpose of such an enterprise. Answering the question of what artificial intelligence and its goals are, will be useless and pure nonsense if one does not have a good appreciation of what science is in general and how it relates to the well-being of humanity. 
+</p>
 
+<p style="text-align: justify;">
 This first monograph is intended not only for researchers but also for questers, for people who have been looking at the surface of water for a long time and are now ready to leave the reflection of their image and casually embrace the mysteries of underwater life. This part of the monograph gives you a background on the goal of science and defines the most important concepts to follow in the next monograph, such as representations, models, knowledge, and reality.
-
+</p>
+<p style="text-align: justify;">
 As you already guessed, this blog will not be a library of codes but a lieu of deep thinking where code is applied only for demonstration purposes to perfect the art.
-
+</p>
 # Reflection
 Whether you are a fresh researcher or an expert, you likely have a sense of what science is. Let us have it, technically: Science is a methodical approach aiming to improve our interaction with the world through representation, or, if you prefer, models. A university professor used to say that science is essentially about creating models. Let us bring more clarity to all those words.
 
