@@ -123,7 +123,7 @@ Now, let’s delve into the concept of representation and models, which is truly
 </p>
 
 ![rose flower](assets/images/flower.gif)
-<img src="https://github.com/Anvi98/anvi98.github.io/blob/cc4d703fcf72bfb52f11458ba0082be6aefaace9/assets/images/flower.gif" alt="Flower"/>
+<img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/cc4d703fcf72bfb52f11458ba0082be6aefaace9/assets/images/flower.gif" alt="Flower"/>
 
 <br/>
 <p style="text-align: justify;">
