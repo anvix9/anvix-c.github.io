@@ -10,7 +10,7 @@ description:>_  # this means to ignore newlines until "baseurl:"
 keywords: [Mathematics, AI, NLP, ML, DL, Brain, Neuroscience, Brain computer interface]
 baseurl: '' # the subpath of your site, e.g. /`blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-domain: 'example.com' # the domain name for your site, e.g. example.com
+domain: 'pinealai.net' # the domain name for your site, e.g. example.com
 language: en
 # Supported languages list:
 # en: English
