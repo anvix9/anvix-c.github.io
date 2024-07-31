@@ -5,7 +5,10 @@ date:   2024-01-03
 last_modified_at: 2024-07-30
 categories: [Philosophy of science]
 ---
+<br/><br/>
+
 # Introduction
+<br/>
 <p style="text-align: justify;">
 Regardless of our life background and profession, we somehow benefit from the advances in science to live the quality of life we are experiencing. Like the breath that happens within us, its role and presence are so obvious that we sometimes forget that we don’t know anything about its mechanisms, or just vaguely.
 Things really changed from the time when all disciplines were combined into one. Philosophy could not be dissociated from the understanding of the planet’s movements around the sun. Poetry was a significant aspect of mathematics. Nowadays, an engineer finds the knowledge of harmonic musical notes useless in his work. Our society has become complex without answering complex questions.
@@ -74,7 +77,6 @@ As the candle flickered, Daysie bravely went first. She carefully touched her fi
 Sarah, watching closely, felt a mix of relief and curiosity. Now it was her turn. She cautiously approached the candle, touched the flame, and yelped! Just like Daysie, she learned firsthand that fire was not to be taken lightly.
 
 Daysie’s dad smiled and said, “Well, now you both know. Fire can be tricky, and it’s important to be careful around it.” The once-heated debate between the friends was now cooled by the shared experience.
-</p>
 
 From that day forward, Daysie and Sarah understood that sometimes, even if someone older says something, it’s good to check it out for yourself.”
 ```
