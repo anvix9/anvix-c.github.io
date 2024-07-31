@@ -4,7 +4,7 @@ title:  "Monograph #1: Genesis of Science and Relationship with Artificial Intel
 date:   2024-01-03
 last_modified_at: 2024-07-30
 categories: [Philosophy of science]
-tags: [Philosophy of science, Machine learning, Artificial intelligence]
+tags: [Philosophy of science Machine learning AI]
 ---
 <br/><br/>
 
@@ -26,9 +26,6 @@ This series of monographs titled “Philosophy of Science” is intended to give
 </p>
 <br/>
 Current and upcoming monographs:
-
-
-
 
 - [Monograph #1: Genesis of Science and relationship with AI.](./2024-01-03-monograph#1:Genesis-of-science-and-relationship-with-artificial-intelligence.markdown)
 - [Monograph #2: Representations – Far from Reality, Yet So Close Ever…](./2024-02-26-monograph#2:Representations-far-from-reality-yet-so-close-ever.markdown)
