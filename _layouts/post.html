@@ -51,7 +51,10 @@ layout: default
       {% for tag in page.tags %}
       <span class="post-tag">{{ tag }}</span>
       {% endfor %}
-    </div>
+      {% else %}
+        <span>No tags available.</span>
+      {% endif %}
+        </div>
     <div class="post-other">
       {% if page.next %}
       <div>
