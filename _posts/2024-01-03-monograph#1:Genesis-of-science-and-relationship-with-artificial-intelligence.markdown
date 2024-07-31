@@ -62,23 +62,33 @@ Throughout history, we’ve witnessed the transformative power of deepening our 
 But what is really knowledge? To better understand it, let us illustrate it via the distinction of knowledge between a common understanding of ‘trust’ and, to some extent, ‘faith’. For that, here is a short but interesting story of two young, 6-year-old kids:
 </p>
 
-``
+<p style="text-align: justify;">
 “Daysie and Sarah, two best friends, were having a big debate about fire. Daysie was convinced that her dad told her that fire wasn’t dangerous at all. On the other hand, Sarah’s mom had warned her that playing with fire could be super risky.
+</p>
 
-<pre style="background-color: #f4f4f4; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
+<p style="text-align: justify;">
 Daysie, determined to settle the argument, invited Sarah to her house for a special experiment. Daysie’s dad, with a twinkle in his eye, set up a test with a candle. He said, “Let’s see if fire is as harmless as we think.”
+</p>
 
+<p style="text-align: justify;">
+The experiment was simple but a bit nerve-wracking. Daysie and Sarah had to put one of their fingers near the flame, just for a moment. Both kids hesitated but agreed to give it a try.
+</p>
+
+<p style="text-align: justify;">
 As the candle flickered, Daysie bravely went first. She carefully touched her finger to the flame and quickly pulled it back. Ouch! She winced a bit; it turned out the fire was indeed hot and could hurt.
+</p>
 
-<pre style="background-color: #f4f4f4; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
+<p style="text-align: justify;">
 Sarah, watching closely, felt a mix of relief and curiosity. Now it was her turn. She cautiously approached the candle, touched the flame, and yelped! Just like Daysie, she learned firsthand that fire was not to be taken lightly.
 </p>
 
+<p style="text-align: justify;">
 Daysie’s dad smiled and said, “Well, now you both know. Fire can be tricky, and it’s important to be careful around it.” The once-heated debate between the friends was now cooled by the shared experience.
-</pre>
+</p>
 
+<p style="text-align: justify;">
 From that day forward, Daysie and Sarah understood that sometimes, even if someone older says something, it’s good to check it out for yourself.”
-``
+</p>
 
 <p style="text-align: justify;">
 It’s a fascinating tale, isn’t it? Two key phases in this narrative warrant exploration: the period preceding the experiment and the aftermath. Before the experiment, both children held distinct perspectives on the safety of fire, drawing from information imparted by their respective parents. After the meticulously conducted experiment, in which both actively participated, a definitive perspective on fire safety emerged.
