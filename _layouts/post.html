@@ -48,12 +48,11 @@ layout: default
     </div>
     <div class="post-tags">
       <span>{{ site.data.lang[site.language].post_tags }}</span>
+      {% if page.tags %}
       {% for tag in page.tags %}
       <span class="post-tag">{{ tag }}</span>
       {% endfor %}
-    {% else %}
-      <span>No tags available.</span>
-    {% endif %}
+      {% endif %}
       </div>
     <div class="post-other">
       {% if page.next %}
