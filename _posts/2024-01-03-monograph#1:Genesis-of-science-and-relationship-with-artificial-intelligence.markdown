@@ -122,7 +122,7 @@ Let’s pick up where we left off. The accumulation of digested direct experienc
 Now, let’s delve into the concept of representation and models, which is truly captivating. Consider this: if we inquired about the color of the flower in this picture, the majority would likely respond with “red,” and here lies the intrigue.
 </p>
 
-<img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/cc4d703fcf72bfb52f11458ba0082be6aefaace9/assets/images/flower.gif" alt="Flower" width="200"/>
+<img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/cc4d703fcf72bfb52f11458ba0082be6aefaace9/assets/images/flower.gif" alt="Flower" width="300"/>
 
 <br/>
 <p style="text-align: justify;">
