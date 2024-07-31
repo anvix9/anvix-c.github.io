@@ -62,6 +62,7 @@ Throughout history, we’ve witnessed the transformative power of deepening our 
 But what is really knowledge? To better understand it, let us illustrate it via the distinction of knowledge between a common understanding of ‘trust’ and, to some extent, ‘faith’. For that, here is a short but interesting story of two young, 6-year-old kids:
 </p>
 
+```
 <p style="text-align: justify;">
 “Daysie and Sarah, two best friends, were having a big debate about fire. Daysie was convinced that her dad told her that fire wasn’t dangerous at all. On the other hand, Sarah’s mom had warned her that playing with fire could be super risky.
 </p>
@@ -89,7 +90,7 @@ Daysie’s dad smiled and said, “Well, now you both know. Fire can be tricky, 
 <p style="text-align: justify;">
 From that day forward, Daysie and Sarah understood that sometimes, even if someone older says something, it’s good to check it out for yourself.”
 </p>
-
+```
 <p style="text-align: justify;">
 It’s a fascinating tale, isn’t it? Two key phases in this narrative warrant exploration: the period preceding the experiment and the aftermath. Before the experiment, both children held distinct perspectives on the safety of fire, drawing from information imparted by their respective parents. After the meticulously conducted experiment, in which both actively participated, a definitive perspective on fire safety emerged.
 </p>
