@@ -7,7 +7,7 @@ email: e.anvi@pinealai.net
 name: Anvi Alex Eponon 
 description:  # this means to ignore newlines until "baseurl:"
   We cannot create intelligence, but at least we can play with it and imitate it.
-keywords: [AI, NLP, ML, DL, Brain, Neuroscience, Brain computer internface]
+keywords: [Mathematics, AI, NLP, ML, DL, Brain, Neuroscience, Brain computer interface]
 baseurl: '' # the subpath of your site, e.g. /`blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 domain: 'example.com' # the domain name for your site, e.g. example.com
