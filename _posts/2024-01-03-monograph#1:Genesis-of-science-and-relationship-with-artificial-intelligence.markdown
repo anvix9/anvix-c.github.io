@@ -29,7 +29,7 @@ Current and upcoming monographs:
 
 
 
-- [Monograph #1: Genesis of Science and relationship with artificial intelligence.](./2024-01-03-monograph#1:Genesis-of-science-and-relationship-with-artificial-intelligence.markdown)
+- [Monograph #1: Genesis of Science and relationship with AI.](./2024-01-03-monograph#1:Genesis-of-science-and-relationship-with-artificial-intelligence.markdown)
 - [Monograph #2: Representations – Far from Reality, Yet So Close Ever…](./2024-02-26-monograph#2:Representations-far-from-reality-yet-so-close-ever.markdown)
 - [Monograph #3: Philosophy or intuition, Mother of Science.](./2024-06-22-monograph#3:philosophy-or-intuition-mother-of-science.markdown)
 - [Monograph #4: Art and Religion, where are you?](./2024-08-07-monograph#4:art-and-religion-where-are-you?.markdown)
@@ -122,6 +122,7 @@ Let’s pick up where we left off. The accumulation of digested direct experienc
 Now, let’s delve into the concept of representation and models, which is truly captivating. Consider this: if we inquired about the color of the flower in this picture, the majority would likely respond with “red,” and here lies the intrigue.
 </p>
 
+![rose_flower](../assets/images/flower.gif)
 <br/>
 <p style="text-align: justify;">
 Why is this so fascinating? Allow me to elucidate. In fact, the flower is not inherently red, but it appears so in our perception of reality. Let’s simplify things. At its core, our ability to perceive objects stems from the fundamental role of light. Without light, our visual capacity diminishes, and everything becomes indiscernible.
