@@ -123,6 +123,8 @@ Now, let’s delve into the concept of representation and models, which is truly
 </p>
 
 ![rose flower](assets/images/flower.gif)
+<img src="../assets/images/flower.gif" alt="Flower"/>
+
 <br/>
 <p style="text-align: justify;">
 Why is this so fascinating? Allow me to elucidate. In fact, the flower is not inherently red, but it appears so in our perception of reality. Let’s simplify things. At its core, our ability to perceive objects stems from the fundamental role of light. Without light, our visual capacity diminishes, and everything becomes indiscernible.
