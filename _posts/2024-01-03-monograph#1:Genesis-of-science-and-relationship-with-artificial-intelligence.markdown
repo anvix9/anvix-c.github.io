@@ -6,22 +6,28 @@ last_modified_at: 2024-07-30
 categories: [Philosophy of science]
 ---
 # Introduction
+<p style="text-align: justify;">
 Regardless of our life background and profession, we somehow benefit from the advances in science to live the quality of life we are experiencing. Like the breath that happens within us, its role and presence are so obvious that we sometimes forget that we don’t know anything about its mechanisms, or just vaguely.
 Things really changed from the time when all disciplines were combined into one. Philosophy could not be dissociated from the understanding of the planet’s movements around the sun. Poetry was a significant aspect of mathematics. Nowadays, an engineer finds the knowledge of harmonic musical notes useless in his work. Our society has become complex without answering complex questions.
+</p>
 
+<p style="text-align: justify;">
 In this first monograph, we are going to let you understand things that might be trivial at first, but fundamental for everything that comes after it, if there is. What is science? How will you define knowledge? What are “representations” and how do they relate to another interesting word called reality?
+</p>
 
+<p style="text-align: justify;">
 This series of monographs titled “Philosophy of Science” is intended to give a broad picture of what could be the purpose of a scientific endeavor in our short human existence and at the same time behave as a template anyone can refer to when working a particular problem. It is an angle of perception that might give a different shape of how we understand things but it does not give The final solution for everything. This series will have 4 core parts and we will be extended with other annexes monographs in this category. 
-
+</p>
+<br/>
 Current and upcoming monographs:
 
 
 
 
-- [Monograph #1: Genesis of Science and relationship with artificial intelligence.](anvi98.github.io/2024/01/03/monograph-1-Genesis-of-science-and-relationship-with-artificial-intelligence)
-- [Monograph #2: Representations – Far from Reality, Yet So Close Ever…](anvi98.github.io/2024/02/26/monograph-2monograph-2-Representations-far-from-reality-yet-so-close-ever)
-- [Monograph #3: Philosophy or intuition, Mother of Science.](anvi98.github.io/2024/06/22/monograph-3-philosophy-or-intuition-mother-of-science)
-- [Monograph #4: Art and Religion, where are you?](anvi98.github.io/2024/08/07/monograph-4-art-and-religion-where-are-you?)
+- [Monograph #1: Genesis of Science and relationship with artificial intelligence.]()
+- [Monograph #2: Representations – Far from Reality, Yet So Close Ever…]()
+- [Monograph #3: Philosophy or intuition, Mother of Science.]()
+- [Monograph #4: Art and Religion, where are you?]()
 
  
 # Abstract-Like
