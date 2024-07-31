@@ -42,116 +42,128 @@ This first monograph is intended not only for researchers but also for questers,
 As you already guessed, this blog will not be a library of codes but a lieu of deep thinking where code is applied only for demonstration purposes to perfect the art.
 </p>
 # Reflection
+<p style="text-align: justify;">
 Whether you are a fresh researcher or an expert, you likely have a sense of what science is. Let us have it, technically: Science is a methodical approach aiming to improve our interaction with the world through representation, or, if you prefer, models. A university professor used to say that science is essentially about creating models. Let us bring more clarity to all those words.
+</p>
 
+<p style="text-align: justify;">
 As human beings, we engage with our surroundings through our bodies and senses, which provide us with information about both external events and our internal states. For instance, sensations of hunger or delight in unexpectedly delicious flavors activate distinct sensors within us.
+</p>
 
- 
-
+<p style="text-align: justify;">
 The intriguing aspect arises when we seek to gauge the depth of our interactions with both the external and internal worlds, collectively referred to as “the world.” The quality of these interactions is shaped by the knowledge accumulated through successive conscious engagements with these realms. The quantity of knowledge amassed significantly influences the quality of our interactions with the world, thereby exerting profound effects on our overall life quality.
+</p>
 
- 
-
+<p style="text-align: justify;">
 Throughout history, we’ve witnessed the transformative power of deepening our understanding of the world. Advancements in knowledge have led to substantial improvements in various aspects of life, including health and education and transport.
+</p>
 
+<p style="text-align: justify;">
 But what is really knowledge? To better understand it, let us illustrate it via the distinction of knowledge between a common understanding of ‘trust’ and, to some extent, ‘faith’. For that, here is a short but interesting story of two young, 6-year-old kids:
+</p>
 
- 
+<p style="text-align: justify;">
+<pre style="background-color: #f4f4f4; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
+“Daysie and Sarah, two best friends, were having a big debate about fire. Daysie was convinced that her dad told her that fire wasn’t dangerous at all. On the other hand, Sarah’s mom had warned her that playing with fire could be super risky.
+</pre>
+</p>
 
-“
-
-Daysie and Sarah, two best friends, were having a big debate about fire. Daysie was convinced that her dad told her that fire wasn’t dangerous at all. On the other hand, Sarah’s mom had warned her that playing with fire could be super risky.
-
- 
-
+<p style="text-align: justify;">
+<pre style="background-color: #f4f4f4; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
 Daysie, determined to settle the argument, invited Sarah to her house for a special experiment. Daysie’s dad, with a twinkle in his eye, set up a test with a candle. He said, “Let’s see if fire is as harmless as we think.”
+</pre>
+</p>
 
- 
-
+<p style="text-align: justify;">
+<pre style="background-color: #f4f4f4; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
 The experiment was simple but a bit nerve-wracking. Daysie and Sarah had to put one of their fingers near the flame, just for a moment. Both kids hesitated but agreed to give it a try.
+</pre>
+</p>
 
- 
-
+<p style="text-align: justify;">
+<pre style="background-color: #f4f4f4; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
 As the candle flickered, Daysie bravely went first. She carefully touched her finger to the flame and quickly pulled it back. Ouch! She winced a bit; it turned out the fire was indeed hot and could hurt.
+</pre>
+</p>
 
- 
-
+<p style="text-align: justify;">
+<pre style="background-color: #f4f4f4; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
 Sarah, watching closely, felt a mix of relief and curiosity. Now it was her turn. She cautiously approached the candle, touched the flame, and yelped! Just like Daysie, she learned firsthand that fire was not to be taken lightly.
+</pre>
+</p>
 
+<p style="text-align: justify;">
+<pre style="background-color: #f4f4f4; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
 Daysie’s dad smiled and said, “Well, now you both know. Fire can be tricky, and it’s important to be careful around it.” The once-heated debate between the friends was now cooled by the shared experience.
+</pre>
+</p>
 
- 
+<p style="text-align: justify;">
+<pre style="background-color: #f4f4f4; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
+From that day forward, Daysie and Sarah understood that sometimes, even if someone older says something, it’s good to check it out for yourself.”
+</pre>
+</p>
 
-From that day forward, Daysie and Sarah understood that sometimes, even if someone older says something, it’s good to check it out for yourself.
-
-”
-
- 
-
+<p style="text-align: justify;">
 It’s a fascinating tale, isn’t it? Two key phases in this narrative warrant exploration: the period preceding the experiment and the aftermath. Before the experiment, both children held distinct perspectives on the safety of fire, drawing from information imparted by their respective parents. After the meticulously conducted experiment, in which both actively participated, a definitive perspective on fire safety emerged.
+</p>
 
- 
+<p style="text-align: justify;">
+What distinguishes these two perspectives? The initial viewpoints were grounded in the children’s relational ties with their parents, constituting a form of belief or faith. In contrast, the post-experiment perspective derived directly from the children’s hands-on experience, representing a form of knowledge. Unlike the former, knowledge is characterized by stability and is unchanging in nature. It stands as an irrefutable truth for both children, an outcome of direct experimentation, whereas the initial beliefs are contingent and susceptible to change with inconsistent outputs depending on situations. A truth can exhibit variability based on the context, yet it remains consistent and logical. In contrast, the first type implies a lack of logic, even within the same context. Take, for instance, the story shared; the information received from parents, when strictly considered in isolation, appears entirely inconsistent and conflicting.
+</p>
 
-What distinguishes these two perspectives? The initial viewpoints were grounded in the children’s relational ties with their parents, constituting a form of belief or faith. In contrast, the post-experiment perspective derived directly from the children’s hands-on experience, representing a form of knowledge. Unlike the former, knowledge is characterized by stability and is unchanging in nature. It stands as an irrefutable truth for both children, an outcome of direct experimentation, whereas the initial beliefs are contingent and susceptible to change with inconsistent outputs depending on situations. A truth can exhibit variability based on the context, yet it remains consistent and logical. In contrast, the first type implies a lack of logic, even within the same context. Take, for instance, the story shared; the information received from parents, when strictly considered in isolation, appears entirely inconsistent and conflicting. 
-
- 
-
+<p style="text-align: justify;">
 However, the information gathered after the experiment from both parties proves to be consistent, logical, and coherent. This underscores the significance of direct experience and experimentation in establishing reliable and coherent truths.
+</p>
 
- 
-
+<p style="text-align: justify;">
 Let’s pick up where we left off. The accumulation of digested direct experiences and experiments with our surroundings constitutes what we call knowledge, and they are consistent and stable, possessing the inherent capability to enhance the quality of our interactions with the world, whether within us or outside us.
+</p>
 
- 
-
+<p style="text-align: justify;">
 Now, let’s delve into the concept of representation and models, which is truly captivating. Consider this: if we inquired about the color of the flower in this picture, the majority would likely respond with “red,” and here lies the intrigue.
+</p>
 
- 
-
- 
-
-
- 
-
+<p style="text-align: justify;">
 Why is this so fascinating? Allow me to elucidate. In fact, the flower is not inherently red, but it appears so in our perception of reality. Let’s simplify things. At its core, our ability to perceive objects stems from the fundamental role of light. Without light, our visual capacity diminishes, and everything becomes indiscernible.
+</p>
 
- 
-
- 
-
-
- 
-
+<p style="text-align: justify;">
 Now, let’s introduce, at a basic level, the consequences of a concept called reflection. Another fundamental truth is that all matter absorbs and reflects certain portions of light. What matter absorbs remains imperceptible to the human eye, while what is rejected by matter becomes visible to us. In the case of our example, the flower absorbs all colors of the light spectrum except red. Take a look at the below illustration:
+</p>
 
- 
-
- 
-
-
- 
-
+<p style="text-align: justify;">
 In reality, the flower embodies a spectrum of colors, excluding red. However, in our perception, we simplify this complexity and define the flower as red. It is easier for us to comprehend a singular state than to acknowledge multiple states simultaneously in our reality, and it’s easier because that’s the color we see.
+</p>
 
+<p style="text-align: justify;">
 This helps us understand what representation is. Representation is like a twin of reality that tries to approximate reality through knowledge acquired. Representation is like an approximate picture of reality using what we know, a distorted reality by our models and knowledge in a sense. So, in simple terms, we don’t completely get reality itself, but with enough hard work, we can have a full understanding of the representation, which is the twin of it.
+</p>
 
+<p style="text-align: justify;">
 Then, models are like using different pieces of information to make our lives simpler or to expand our understanding of reality. They are basically how we use what we know to be close to what is real (the process by which we obtain representations but also use them). For instance, I know that fire can burn my hands and that water can put out fire. Bringing together these two pieces of knowledge helps me create a better picture of reality and improve my quality of life compared to knowing just one thing on its own.
+</p>
 
+<p style="text-align: justify;">
 To sum it up, knowledge, which consists of truths gained through direct experimentation, aids us in better understanding reality. This understanding is what we call the representation of reality. Science, in essence, is the systematic process that assists us in getting closer to reality or expanding our representation so that it aligns more closely with reality. The better our representation becomes, the closer we get to reality, enhancing our interaction with reality and, consequently, improving our quality of life.
+</p>
 
- 
+<h2>Conclusion</h2>
 
- 
-# Conclusion
+<p style="text-align: justify;">
 Now that we grasp the core objective of science, it’s evident that within the realm of science, there are various processes and paradigms. These diverse approaches ultimately give rise to the multitude of scientific disciplines that we observe today, like mathematics, chemistry, and so on.
+</p>
 
+<p style="text-align: justify;">
 We now appear to comprehend the aim of science, which is to simplify and enrich our lives.
+</p>
 
-
-
+<p style="text-align: justify;">
 Recall that our lives are just a bunch of interactions between our inner world and the external one. After reading this first part of the monograph, how does what we shared connect with artificial intelligence (AI)? Do the notions of representation and models play a role in the domain of AI? Do they have the same meaning as the ones given here?
+</p>
 
-
-
+<p style="text-align: justify;">
 Take a moment to pause, reflect, and absorb the initial segment of this monograph. How does it resonate with your daily life experiences? Have you ever pondered whether the sky is truly blue or the sun genuinely, yellow? The subsequent section of the monograph will delve into different understanding of Representations and how they affect our life as researchers but also the interconnections between our grasp of these concepts and the domain of artificial intelligence.
+</p>
+
 
