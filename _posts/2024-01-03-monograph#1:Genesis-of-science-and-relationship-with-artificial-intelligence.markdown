@@ -121,9 +121,9 @@ Let’s pick up where we left off. The accumulation of digested direct experienc
 <p style="text-align: justify;">
 Now, let’s delve into the concept of representation and models, which is truly captivating. Consider this: if we inquired about the color of the flower in this picture, the majority would likely respond with “red,” and here lies the intrigue.
 </p>
-
+<br/>
 <img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/cc4d703fcf72bfb52f11458ba0082be6aefaace9/assets/images/flower.gif" alt="Flower" width="300"/>
-
+<br />
 <br/>
 <p style="text-align: justify;">
 Why is this so fascinating? Allow me to elucidate. In fact, the flower is not inherently red, but it appears so in our perception of reality. Let’s simplify things. At its core, our ability to perceive objects stems from the fundamental role of light. Without light, our visual capacity diminishes, and everything becomes indiscernible.
