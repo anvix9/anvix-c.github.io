@@ -63,7 +63,7 @@ But what is really knowledge? To better understand it, let us illustrate it via 
 </p>
 
 <p style="text-align: justify;">
-<pre style="background-color: #f4f4f4; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
+<pre style="background-color: #f4f4f4; border: 1px solid #ddd; padding: 10px; border-radius: 4px; word-wrap: break-word;">
 “Daysie and Sarah, two best friends, were having a big debate about fire. Daysie was convinced that her dad told her that fire wasn’t dangerous at all. On the other hand, Sarah’s mom had warned her that playing with fire could be super risky.
 </pre>
 </p>
