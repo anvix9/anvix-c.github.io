@@ -11,5 +11,5 @@ Just a passionate of learning. I do a lot of experiments and reflects on them ei
 </p>
 
 <p style="text-align: justify;">
-If you have any questions or suggestions, you can contact me on [Twitter](https://www.x.com/anvi_al), or send email to [me](mailto:e.anvi@pinealai.net). 
+If you have any questions or suggestions, you can contact me on [Twitter](https://x.com/anvi_al), or send email to [me](mailto:e.anvi@pinealai.net). 
 </p>  
