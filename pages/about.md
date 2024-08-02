@@ -13,3 +13,5 @@ Just a passionate of learning. I do a lot of experiments and reflects on them ei
 If you have any questions or suggestions, you can contact me on [Twitter][Twitter-acc], or send email to [me](mailto:e.anvi@pinealai.net). 
 
 [Twitter-acc]: https://x.com/anvi_al
+
+<img src="" alt="The call"/ style="text-align: center;">
