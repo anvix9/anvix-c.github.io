@@ -13,12 +13,12 @@ tags: [Philosophy of science, AI, Machine learning, science]
 <br/>
 <p style="text-align: justify;">
 Regardless of our life background and profession, we somehow benefit from the advances in science to live the quality of life we are experiencing. Like the breath that happens within us, its role and presence are so obvious that we sometimes forget that we don’t know anything about its mechanisms, or just vaguely.
-Things really changed from the time when all disciplines were combined into one. Philosophy could not be dissociated from the understanding of the planet’s movements around the sun. Poetry was a significant aspect of mathematics. Nowadays, an engineer finds the knowledge of harmonic musical notes useless in his work. <mark>Our society has become complex without answering complex questions<mark>.
+Things really changed from the time when all disciplines were combined into one. Philosophy could not be dissociated from the understanding of the planet’s movements around the sun. Poetry was a significant aspect of mathematics. Nowadays, an engineer finds the knowledge of harmonic musical notes useless in his work. Our society has become complex without answering complex questions.
 </p>
 
 <br/>
 <p style="text-align: justify;">
-In this first monograph, we are going to let you understand things that might be trivial at first, but fundamental for everything that comes after it, if there is. What is science? How will you define knowledge? What are <span><mark>“representations”</mark></span> and how do they relate to another interesting word called reality?
+In this first monograph, we are going to let you understand things that might be trivial at first, but fundamental for everything that comes after it, if there is. What is science? How will you define knowledge? What are “representations” and how do they relate to another interesting word called reality?
 </p>
 
 <br/>
@@ -59,7 +59,7 @@ As you already guessed, this blog will not only be a library of codes but <mark>
 # Reflection
 <br/>
 <p style="text-align: justify;">
-Whether you are a fresh researcher or an expert, you likely have a sense of what science is. Let us have it, technically: <span><u>Science is a methodical approach aiming to improve our interaction with the world through representation, or, if you prefer, models</u></span>. A university professor used to say that science is essentially about creating models. Let us bring more clarity to all those words.
+Whether you are a fresh researcher or an expert, you likely have a sense of what science is. Let us have it, technically: Science is a methodical approach aiming to improve our interaction with the world through representation, or, if you prefer, models. A university professor used to say that science is essentially about creating models. Let us bring more clarity to all those words.
 </p>
 
 <br/>
