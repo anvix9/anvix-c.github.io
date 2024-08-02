@@ -14,6 +14,7 @@ tags: [Philosophy of science, AI, Machine learning, science]
 - [Monograph #3: Philosophy or intuition, Mother of Science.](./2024-06-22-monograph#3:philosophy-or-intuition-mother-of-science.markdown)
 - [Monograph #4: Art and Religion, where are you?](./2024-08-07-monograph#4:art-and-religion-where-are-you?.markdown)
 <br/><br/>
+
 # Introduction
 <br/>
 <p style="text-align: justify;">
