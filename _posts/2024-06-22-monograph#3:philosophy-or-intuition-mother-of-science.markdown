@@ -33,7 +33,7 @@ In this series, we are going to continue on this journey and approach the concep
 <br/>
 
 <p style="text-align: justify;">
-We mentioned in the previous articles the fact that after we are born, we have to go through a learning process from our environment. We come as a complete blank paper per se. And then with time, information starts to leave its marks on us slowly but surely. After a good amount of time, we accumulated enough information that help us interact with the society we are living in related to the era. Because we have already sensed sometimes that it could have been awful if we were to live 100 years in the past with our current habits and concepts.
+We mentioned in the previous articles the fact that after we are born, we have to go through a learning process from our environment. <mark>We come as a complete blank paper per se.</mark> And then with time, information starts to leave its marks on us slowly but surely. After a good amount of time, we accumulated enough information that help us interact with the society we are living in related to the era. Because we have already sensed sometimes that it could have been awful if we were to live 100 years in the past with our current habits and concepts.
 </p>
  
 
