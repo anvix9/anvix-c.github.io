@@ -4,7 +4,7 @@
 - default: menu_category
   url: 'categories'
 
-- title: 'Pinealai'
+- title: 'PoS Articles'
   absoluteUrl: true
   url: 'https://anvi98.github.io'
 
