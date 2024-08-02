@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2024-06-22-monograph#3:philosophy-or-intuition-mother-of-science"
+title:  "Monograph #3: Philosophy or intuition, Mother of Science."
 date:   2024-06-22
 last_modified_at: 2024-08-01
 categories: [Philosophy of science]
