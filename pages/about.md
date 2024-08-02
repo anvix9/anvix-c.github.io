@@ -10,7 +10,7 @@ permalink: /about/
 Just a passionate of learning. I do a lot of experiments and reflects on them either on AI or other stuffs that you will be able to see in this blog. I don't walk with the trends I rather question it and go reverse if necessary. You will enjoy some articles here if you are looking for deep insights.
 </p>
 <br/>
-If you have any questions or suggestions, you can contact me on <mark><u>[Twitter][Twitter-acc]</u></mark>, or send directly an email to <mark><u>[me](mailto:e.anvi@pinealai.net)</u></mark>(I always answer fast as long as I don't receive any spam). 
+If you have any questions or suggestions, you can contact me on <mark>[Twitter][Twitter-acc]</mark>, or send directly an email to <mark>[me](mailto:e.anvi@pinealai.net)</mark> (I always answer fast as long as I don't receive any spam). 
 
 [Twitter-acc]: https://x.com/anvi_al
 
