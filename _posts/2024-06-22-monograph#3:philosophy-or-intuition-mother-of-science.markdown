@@ -54,7 +54,7 @@ As modern human beings, we come out of this world as this model that does not kn
 <figure style="text-align: center;">
     <img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/mono3_example.gif" alt="Flower" width="300"/>
     <br />
-    <figcaption>Fig.1: Linear Regression fitting (Yahya Ansari-Medium)
+    <figcaption>Fig.1: Linear Regression fitting (Yahya Ansari-Medium).
     </figcaption>
 </figure>
 <br/>
