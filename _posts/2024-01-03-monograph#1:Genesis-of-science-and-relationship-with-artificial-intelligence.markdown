@@ -13,17 +13,17 @@ tags: [Philosophy of science, AI, Machine learning, science]
 <br/>
 <p style="text-align: justify;">
 Regardless of our life background and profession, we somehow benefit from the advances in science to live the quality of life we are experiencing. Like the breath that happens within us, its role and presence are so obvious that we sometimes forget that we don’t know anything about its mechanisms, or just vaguely.
-Things really changed from the time when all disciplines were combined into one. Philosophy could not be dissociated from the understanding of the planet’s movements around the sun. Poetry was a significant aspect of mathematics. Nowadays, an engineer finds the knowledge of harmonic musical notes useless in his work. Our society has become complex without answering complex questions.
+<mark>Things really changed from the time when all disciplines were combined into one</mark>. Philosophy could not be dissociated from the understanding of the planet’s movements around the sun. Poetry was a significant aspect of mathematics. Nowadays, an engineer finds the knowledge of harmonic musical notes useless in his work. <mark>Our society has become complex without answering complex questions<mark>.
 </p>
 
 <br/>
 <p style="text-align: justify;">
-In this first monograph, we are going to let you understand things that might be trivial at first, but fundamental for everything that comes after it, if there is. What is science? How will you define knowledge? What are “representations” and how do they relate to another interesting word called reality?
+In this first monograph, we are going to let you understand things that might be trivial at first, but fundamental for everything that comes after it, if there is. What is science? How will you define knowledge? What are <mark>“representations”</mark> and how do they relate to another interesting word called reality?
 </p>
 
 <br/>
 <p style="text-align: justify;">
-This series of monographs titled “Philosophy of Science” is intended to give a broad picture of what could be the purpose of a scientific endeavor in our short human existence and at the same time behave as a template anyone can refer to when working a particular problem. It is an angle of perception that might give a different shape of how we understand things but it does not give The final solution for everything. This series will have 4 core parts and we will be extended with other annexes monographs in this category. 
+This series of monographs titled <mark>“Philosophy of Science”</mark> is intended to give a broad picture of what could be the purpose of a scientific endeavor in our short human existence and at the same time behave as a template anyone can refer to when working a particular problem. It is an angle of perception that might give a different shape of how we understand things but it does not give The final solution for everything. This series will have 4 core parts and we will be extended with other annexes monographs in this category. 
 </p>
 <br/>
 Current and upcoming monographs:
@@ -49,7 +49,7 @@ This first monograph is intended not only for researchers but also for questers,
 
 <br/>
 <p style="text-align: justify;">
-As you already guessed, this blog will not be a library of codes but a lieu of deep thinking where code is applied only for demonstration purposes to perfect the art.
+As you already guessed, this blog will not only be a library of codes but <mark>a lieu of deep thinking where code is applied only for demonstration purposes to perfect the art.</mark>
 </p>
 
 <br/><br/>
@@ -57,7 +57,7 @@ As you already guessed, this blog will not be a library of codes but a lieu of d
 
 <br/>
 <p style="text-align: justify;">
-Whether you are a fresh researcher or an expert, you likely have a sense of what science is. Let us have it, technically: Science is a methodical approach aiming to improve our interaction with the world through representation, or, if you prefer, models. A university professor used to say that science is essentially about creating models. Let us bring more clarity to all those words.
+Whether you are a fresh researcher or an expert, you likely have a sense of what science is. Let us have it, technically: <u>Science is a methodical approach aiming to improve our interaction with the world through representation, or, if you prefer, models</u>. A university professor used to say that science is essentially about creating models. Let us bring more clarity to all those words.
 </p>
 
 <br/>
@@ -194,9 +194,5 @@ We now appear to comprehend the aim of science, which is to simplify and enrich 
 Recall that our lives are just a bunch of interactions between our inner world and the external one. After reading this first part of the monograph, how does what we shared connect with artificial intelligence (AI)? Do the notions of representation and models play a role in the domain of AI? Do they have the same meaning as the ones given here?
 </p>
 
-<br/>
-<p style="text-align: justify;">
-Take a moment to pause, reflect, and absorb the initial segment of this monograph. How does it resonate with your daily life experiences? Have you ever pondered whether the sky is truly blue or the sun genuinely, yellow? The subsequent section of the monograph will delve into different understanding of Representations and how they affect our life as researchers but also the interconnections between our grasp of these concepts and the domain of artificial intelligence.
-</p>
 <br/>
 
