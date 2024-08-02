@@ -135,12 +135,9 @@ Now, let’s introduce, at a basic level, the consequences of a concept called r
 </p>
 
 <br />
-<figure>
+<figure style="text-align: center;">
     <img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/pic_3_reflection.png" alt="Light lamp in the dark" width="300"/>
-    <figcaption>Fig.3:
-     <ul>
-        <li>Reflection of light</li>
-     </ul>
+    <figcaption>Fig.3: Reflection of light
     </figcaption>
 </figure>
 <br />
