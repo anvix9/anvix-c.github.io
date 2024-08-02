@@ -50,8 +50,14 @@ Let us take an example. If you are a bit versed in Machine learning or statistic
 <p style="text-align: justify;">
 As modern human beings, we come out of this world as this model that does not know how to fit the tremendous information of “society” correctly. But with the help of our surroundings, family, schools, friends, etc., our line (model) starts to get a sense of the data points and starts to better fit them. What is interesting is that, after a moment, this fitting reaches its best performance according to the values, either moral or religious, set by our environments. At this point, what happens to us as human beings is that the learning “stops” and we now start inferring from each case that comes our way. We become the “children of our society.” The model we have built helps us navigate through the requirements of our lives, and when a very different case faces us, we infer the best response we can without changing the shape of the model learned throughout our lives.
 </p>
- 
-Fig.1: Linear Regression fitting (Yahya Ansari-Medium)
+<br/>
+<figure style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/mono3_example.gif" alt="Flower" width="300"/>
+    <br />
+    <figcaption>Fig.1: Linear Regression fitting (Yahya Ansari-Medium)
+    </figcaption>
+</figure>
+<br/>
 
 
 <p style="text-align: justify;">
