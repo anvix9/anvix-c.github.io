@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2024-08-07-monograph#4:art-and-religion-where-are-you?"
+title:  "Monograph #4: Art and Religion, where are you?"
 date:   2024-08-01
 last_modified_at: 2024-08-01
 categories: [Philosophy of science]
