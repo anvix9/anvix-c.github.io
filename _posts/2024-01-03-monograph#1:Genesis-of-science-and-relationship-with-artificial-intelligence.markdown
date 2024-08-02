@@ -18,7 +18,7 @@ Things really changed from the time when all disciplines were combined into one.
 
 <br/>
 <p style="text-align: justify;">
-In this first monograph, we are going to let you understand things that might be trivial at first, but fundamental for everything that comes after it, if there is. What is science? How will you define knowledge? What are <mark>“representations”</mark> and how do they relate to another interesting word called reality?
+In this first monograph, we are going to let you understand things that might be trivial at first, but fundamental for everything that comes after it, if there is. What is science? How will you define knowledge? What are <span><mark>“representations”</mark></span> and how do they relate to another interesting word called reality?
 </p>
 
 <br/>
@@ -26,6 +26,7 @@ In this first monograph, we are going to let you understand things that might be
 This series of monographs titled <mark>“Philosophy of Science”</mark> is intended to give a broad picture of what could be the purpose of a scientific endeavor in our short human existence and at the same time behave as a template anyone can refer to when working a particular problem. It is an angle of perception that might give a different shape of how we understand things but it does not give The final solution for everything. This series will have 4 core parts and we will be extended with other annexes monographs in this category. 
 </p>
 <br/>
+
 Current and upcoming monographs:
 
 - <strong>[Monograph #1: Genesis of Science and relationship with AI.]({% link _posts/2024-01-03-monograph#1:Genesis-of-science-and-relationship-with-artificial-intelligence.markdown %})</strong>
@@ -53,11 +54,12 @@ As you already guessed, this blog will not only be a library of codes but <mark>
 </p>
 
 <br/><br/>
-# Reflection
 
+
+# Reflection
 <br/>
 <p style="text-align: justify;">
-Whether you are a fresh researcher or an expert, you likely have a sense of what science is. Let us have it, technically: <u>Science is a methodical approach aiming to improve our interaction with the world through representation, or, if you prefer, models</u>. A university professor used to say that science is essentially about creating models. Let us bring more clarity to all those words.
+Whether you are a fresh researcher or an expert, you likely have a sense of what science is. Let us have it, technically: <span><u>Science is a methodical approach aiming to improve our interaction with the world through representation, or, if you prefer, models</u></span>. A university professor used to say that science is essentially about creating models. Let us bring more clarity to all those words.
 </p>
 
 <br/>
@@ -80,6 +82,7 @@ Throughout history, we’ve witnessed the transformative power of deepening our 
 But what is really knowledge? To better understand it, let us illustrate it via the distinction of knowledge between a common understanding of ‘trust’ and, to some extent, ‘faith’. For that, here is a short but interesting story of two young, 6-year-old kids:
 </p>
 <br/><br/>
+
 ```
 “Daysie and Sarah, two best friends, were having a big debate about fire. Daysie was convinced that her dad told her that fire wasn’t dangerous at all. On the other hand, Sarah’s mom had warned her that playing with fire could be super risky.
 
@@ -177,8 +180,8 @@ To sum it up, knowledge, which consists of truths gained through direct experime
 </p>
 
 <br/><br/>
-<h2>Conclusion</h2>
 
+# Conclusion
 <br/>
 <p style="text-align: justify;">
 Now that we grasp the core objective of science, it’s evident that within the realm of science, there are various processes and paradigms. These diverse approaches ultimately give rise to the multitude of scientific disciplines that we observe today, like mathematics, chemistry, and so on.
