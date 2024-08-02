@@ -8,5 +8,8 @@
   absoluteUrl: true
   url: 'https://anvi98.github.io'
 
+- title: 'Experiments'
+  url: 'experiments'
+
 - default: menu_about
   url: 'about'
