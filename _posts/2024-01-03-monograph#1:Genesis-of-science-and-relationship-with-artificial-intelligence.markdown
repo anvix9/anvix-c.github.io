@@ -127,11 +127,14 @@ Now, let’s delve into the concept of representation and models, which is truly
 <p style="text-align: justify;">
 Why is this so fascinating? Allow me to elucidate. In fact, the flower is not inherently red, but it appears so in our perception of reality. Let’s simplify things. At its core, our ability to perceive objects stems from the fundamental role of light. Without light, our visual capacity diminishes, and everything becomes indiscernible.
 </p>
+<img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/pic_2_light.png" alt="Light lamp in the dark" width="300"/>
 
 <br/>
 <p style="text-align: justify;">
 Now, let’s introduce, at a basic level, the consequences of a concept called reflection. Another fundamental truth is that all matter absorbs and reflects certain portions of light. What matter absorbs remains imperceptible to the human eye, while what is rejected by matter becomes visible to us. In the case of our example, the flower absorbs all colors of the light spectrum except red. Take a look at the below illustration:
 </p>
+
+<img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/pic_3_reflection.png" alt="Light lamp in the dark" width="300"/>
 
 <br/>
 <p style="text-align: justify;">
