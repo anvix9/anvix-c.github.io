@@ -51,7 +51,7 @@ Let us take an example. If you are a bit versed in Machine learning or statistic
 
 <br/>
 <p style="text-align: justify;">
-As modern human beings, we come out of this world as this model that does not know how to fit the tremendous information of “society” correctly. But with the help of our surroundings, family, schools, friends, etc., our line (model) starts to get a sense of the data points and starts to better fit them. What is interesting is that, after a moment, this fitting reaches its best performance according to the values, either moral or religious, set by our environments. At this point, what happens to us as human beings is that the learning “stops” and we now start inferring from each case that comes our way. We become the “children of our society.” The model we have built helps us navigate through the requirements of our lives, and when a very different case faces us, we infer the best response we can without changing the shape of the model learned throughout our lives.
+As modern human beings, we come out of this world as this model that does not know how to fit the tremendous information of “society” correctly. But with the help of our surroundings, family, schools, friends, etc., our line (model) starts to get a sense of the data points and starts to better fit them. What is interesting is that, after a moment, this fitting reaches its best performance according to the values, either moral or religious, set by our environments. At this point, what happens to us as human beings is that the learning <mark>“stops” and we now start inferring</mark> from each case that comes our way. We become the <mark>“children of our society.”</mark> The model we have built helps us navigate through the requirements of our lives, and when a very different case faces us, we infer the best response we can without changing the shape of the model learned throughout our lives.
 </p>
 <br/>
 <figure style="text-align: center;">
@@ -80,7 +80,7 @@ Philosophy is this approach that helps us continuously challenge not only our cu
 
 <br/>
 <p style="text-align: justify;">
-So for an individual, Philosophy has been part of and integrated into his life, consciously or not. But when it comes to a scientist, the question becomes extremely urgent.  It becomes urgent because, as a scientist who has already acknowledged his limits in terms of knowledge, continuous learning becomes crucial. Learning and “learning to unlearn” every moment becomes exactly the path of a scientist.
+So for an individual, Philosophy has been part of and integrated into his life, consciously or not. But when it comes to a scientist, the question becomes extremely urgent.  It becomes urgent because, as a scientist who has already acknowledged his limits in terms of knowledge, continuous learning becomes crucial. Learning and <mark>“learning to unlearn”</mark> every moment becomes exactly the path of a scientist.
 </p>
  
 
@@ -92,7 +92,7 @@ This expression “learn to unlearn” then is just the consequence of Philosoph
 
 <br/>
 <p style="text-align: justify;">
-If this process of questioning and self-evaluation has to happen continuously for a scientist, then how does the comparison, which is crucial for growth, however we define it, happen? In the first phase, this was related to the expectations of society and our environment. But at a certain point, the scientist reaches the stage where he might break the expectations of society to continue the learning process. This is generally crucial for new knowledge to enter the world.
+If this process of questioning and self-evaluation has to happen continuously for a scientist, then how does the comparison, which is crucial for growth, however we define it, happen? In the first phase, this was related to the expectations of society and our environment. But at a certain point, the scientist reaches the stage where he might <mark>break</mark> the expectations of society to continue the learning process. This is generally crucial for new knowledge to enter the world.
 </p>
  
 
