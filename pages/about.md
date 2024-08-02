@@ -14,4 +14,11 @@ If you have any questions or suggestions, you can contact me on [Twitter][Twitte
 
 [Twitter-acc]: https://x.com/anvi_al
 
+<br /><br/>
+
+<figure style="text-align: center;">
 <img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/newsletter_st_matthew_painting.jpg" alt="The call" style="text-align: center;" width=350 />
+    <br />    
+    <figcaption>Fig: The Calling of Saint Matthew painting. 1597 
+    </figcaption>
+</figure>
