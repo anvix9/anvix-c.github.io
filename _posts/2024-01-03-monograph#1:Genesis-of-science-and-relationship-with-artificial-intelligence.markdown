@@ -13,7 +13,7 @@ tags: [Philosophy of science, AI, Machine learning, science]
 <br/>
 <p style="text-align: justify;">
 Regardless of our life background and profession, we somehow benefit from the advances in science to live the quality of life we are experiencing. Like the breath that happens within us, its role and presence are so obvious that we sometimes forget that we don’t know anything about its mechanisms, or just vaguely.
-<mark>Things really changed from the time when all disciplines were combined into one</mark>. Philosophy could not be dissociated from the understanding of the planet’s movements around the sun. Poetry was a significant aspect of mathematics. Nowadays, an engineer finds the knowledge of harmonic musical notes useless in his work. <mark>Our society has become complex without answering complex questions<mark>.
+Things really changed from the time when all disciplines were combined into one. Philosophy could not be dissociated from the understanding of the planet’s movements around the sun. Poetry was a significant aspect of mathematics. Nowadays, an engineer finds the knowledge of harmonic musical notes useless in his work. <mark>Our society has become complex without answering complex questions<mark>.
 </p>
 
 <br/>
