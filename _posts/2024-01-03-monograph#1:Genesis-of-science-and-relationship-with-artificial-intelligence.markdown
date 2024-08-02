@@ -134,8 +134,9 @@ Why is this so fascinating? Allow me to elucidate. In fact, the flower is not in
 Now, let’s introduce, at a basic level, the consequences of a concept called reflection. Another fundamental truth is that all matter absorbs and reflects certain portions of light. What matter absorbs remains imperceptible to the human eye, while what is rejected by matter becomes visible to us. In the case of our example, the flower absorbs all colors of the light spectrum except red. Take a look at the below illustration:
 </p>
 
+<br />
 <img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/pic_3_reflection.png" alt="Light lamp in the dark" width="300"/>
-
+<br />
 <br/>
 <p style="text-align: justify;">
 In reality, the flower embodies a spectrum of colors, excluding red. However, in our perception, we simplify this complexity and define the flower as red. It is easier for us to comprehend a singular state than to acknowledge multiple states simultaneously in our reality, and it’s easier because that’s the color we see.
