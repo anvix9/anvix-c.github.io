@@ -141,6 +141,7 @@ Now, let’s introduce, at a basic level, the consequences of a concept called r
      <ul>
         <li>Reflection of light</li>
      </ul>
+    </figcaption>
 </figure>
 <br />
 <br/>
