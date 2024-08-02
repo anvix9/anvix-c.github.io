@@ -29,13 +29,15 @@ This series of monographs titled <mark>“Philosophy of Science”</mark> is int
 
 Current and upcoming monographs:
 
-- <strong>[Monograph #1: Genesis of Science and relationship with AI.]({% link _posts/2024-01-03-monograph-1-Genesis-of-science-and-relationship-with-artificial-intelligence.markdown %})</strong>
-- [Monograph #2: Representations – Far from Reality, Yet So Close Ever…]({% link _posts/2024-02-26-monograph-2-Representations-far-from-reality-yet-so-close-ever.markdown  %})
-- [Monograph #3: Philosophy or intuition, Mother of Science.]({% link _posts/2024-06-22-monograph-3-philosophy-or-intuition-mother-of-science.markdown %})
-- [Monograph #4: Art and Religion, where are you?]({% link _posts/2024-08-01-monograph-4-art-and-religion-where-are-you?.markdown %})
+- <strong>[Monograph #1: Genesis of Science and relationship with AI.]({% link _posts/2024-01-03-monograph#1:Genesis-of-science-and-relationship-with-artificial-intelligence.markdown %})</strong>
+- [Monograph #2: Representations – Far from Reality, Yet So Close Ever…]({% link _posts/2024-02-26-monograph#2:Representations-far-from-reality-yet-so-close-ever.markdown  %})
+- [Monograph #3: Philosophy or intuition, Mother of Science.]({% link _posts/2024-06-22-monograph#3:philosophy-or-intuition-mother-of-science.markdown %})
+- [Monograph #4: Art and Religion, where are you?]({% link _posts/2024-08-01-monograph#4:art-and-religion-where-are-you?.markdown %})
 
+ 
 <br/><br/>
 # Abstract-Like
+
 <br/>
 <p style="text-align: justify;">
 As we talk about artificial intelligence and dive deep into the technical aspect of what this science is about, we will understand the purpose of such an enterprise. Answering the question of what artificial intelligence and its goals are, will be useless and pure nonsense if one does not have a good appreciation of what science is in general and how it relates to the well-being of humanity. 
