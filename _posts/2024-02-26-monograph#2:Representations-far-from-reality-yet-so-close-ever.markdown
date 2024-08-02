@@ -152,7 +152,6 @@ This is from our perspective the most beautiful journey a researcher or a scient
 We tried to be extremely brief in this monograph as we wanted to not lose focus on what we wanted to convey which is what are really representations where do they come from and what are their importance in our life as researchers. I think the reader can intuitively map the representation definition we gave here with how it is defined in artificial intelligence. If not, this could be a nice exercise for the minds of our readers.
 Representations play a huge role in our lives as normal humans, and researchers but also play a considerable role in Science and obviously in artificial intelligence. Understanding how this concept influences us as researchers is extremely important if our goal is to push forward the general knowledge of our human race.
 </p>
-
 <br/>
 
 <p style="text-align: justify;">
