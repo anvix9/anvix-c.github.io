@@ -13,7 +13,7 @@ tags: [Philosophy of science, AI, Machine learning, science]
 <br/>
 <p style="text-align: justify;">
 Regardless of our life background and profession, we somehow benefit from the advances in science to live the quality of life we are experiencing. Like the breath that happens within us, its role and presence are so obvious that we sometimes forget that we don’t know anything about its mechanisms, or just vaguely.
-Things really changed from the time when all disciplines were combined into one. Philosophy could not be dissociated from the understanding of the planet’s movements around the sun. Poetry was a significant aspect of mathematics. Nowadays, an engineer finds the knowledge of harmonic musical notes useless in his work. <mark>Our society has become complex without answering complex questions<mark>.
+Things really changed from the time when all disciplines were combined into one. Philosophy could not be dissociated from the understanding of the planet’s movements around the sun. Poetry was a significant aspect of mathematics. Nowadays, an engineer finds the knowledge of harmonic musical notes useless in his work.Our society has become complex without answering complex questions.
 </p>
 
 <br/>
@@ -23,7 +23,7 @@ In this first monograph, we are going to let you understand things that might be
 
 <br/>
 <p style="text-align: justify;">
-This series of monographs titled <mark>“Philosophy of Science”</mark> is intended to give a broad picture of what could be the purpose of a scientific endeavor in our short human existence and at the same time behave as a template anyone can refer to when working a particular problem. It is an angle of perception that might give a different shape of how we understand things but it does not give The final solution for everything. This series will have 4 core parts and we will be extended with other annexes monographs in this category. 
+This series of monographs titled “Philosophy of Science” is intended to give a broad picture of what could be the purpose of a scientific endeavor in our short human existence and at the same time behave as a template anyone can refer to when working a particular problem. It is an angle of perception that might give a different shape of how we understand things but it does not give The final solution for everything. This series will have 4 core parts and we will be extended with other annexes monographs in this category. 
 </p>
 <br/>
 
