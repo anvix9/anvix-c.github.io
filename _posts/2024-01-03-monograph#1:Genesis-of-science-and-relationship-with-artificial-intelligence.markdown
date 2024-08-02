@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Monograph #1: Genesis of Science and Relationship with Artificial Intelligence"
+title:  "Monograph #1: Genesis of Science and Relationship with Artificial Intelligence."
 date:   2024-01-03
 last_modified_at: 2024-07-30
 categories: [Philosophy of science]
