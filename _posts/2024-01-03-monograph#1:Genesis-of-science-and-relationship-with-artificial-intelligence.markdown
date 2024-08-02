@@ -121,14 +121,28 @@ Let’s pick up where we left off. The accumulation of digested direct experienc
 Now, let’s delve into the concept of representation and models, which is truly captivating. Consider this: if we inquired about the color of the flower in this picture, the majority would likely respond with “red,” and here lies the intrigue.
 </p>
 <br/>
-<img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/cc4d703fcf72bfb52f11458ba0082be6aefaace9/assets/images/flower.gif" alt="Flower" width="300"/>
+
+<figure style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/cc4d703fcf72bfb52f11458ba0082be6aefaace9/assets/images/flower.gif" alt="Flower" width="300"/>
+    <br />
+    <figcaption>Fig.1: Red Rose.
+    </figcaption>
+</figure>
+
 <br />
 <br/>
 <p style="text-align: justify;">
 Why is this so fascinating? Allow me to elucidate. In fact, the flower is not inherently red, but it <mark>appears so</mark> in our perception of reality. Let’s simplify things. At its core, our ability to perceive objects stems from the fundamental role of light. Without light, our visual capacity diminishes, and everything becomes indiscernible.
 </p>
-<img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/pic_2_light.png" alt="Light lamp in the dark" width="300"/>
+<br/>
 
+<figure style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/pic_2_light.png" alt="Light lamp in the dark" width="300"/>
+    <br />
+    <figcaption>Fig.2: lamp's light in the dark.
+    </figcaption>
+</figure>
+<br/>
 <br/>
 <p style="text-align: justify;">
 Now, let’s introduce, at a basic level, the consequences of a concept called reflection. Another fundamental truth is that all matter absorbs and reflects certain portions of light. What matter absorbs remains imperceptible to the human eye, while what is rejected by matter becomes visible to us. In the case of our example, the flower absorbs all colors of the light spectrum except red. Take a look at the below illustration:
@@ -137,6 +151,7 @@ Now, let’s introduce, at a basic level, the consequences of a concept called r
 <br />
 <figure style="text-align: center;">
     <img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/pic_3_reflection.png" alt="Light lamp in the dark" width="300"/>
+    <br />    
     <figcaption>Fig.3: Reflection of light
     </figcaption>
 </figure>
