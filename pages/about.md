@@ -7,7 +7,7 @@ permalink: /about/
 <br/>
 
 <p style="text-align: justify;">
-Just a passionate of learning. I do a lot of experiments and reflects on them either on AI or other stuffs that you will be able to see in this blog. I don't walk with the trends __blindly__ I rather question it and go reverse if necessary. You will enjoy some articles here if you are looking for deep insights.
+Just a passionate of learning. I do a lot of experiments and reflects on them either on AI or other stuffs that you will be able to see in this blog. I don't walk with the trends <strong>blindly</strong> I rather question it and go reverse if necessary. You will enjoy some articles here if you are looking for deep insights.
 </p>
 
 <p style="text-align: center;">______</p>
