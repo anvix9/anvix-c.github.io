@@ -25,7 +25,7 @@ How did I come up with an understanding of English? I remembered being in high s
 <br/>
 
 <p style="text-align: justify;">
-As a passionate about learning and intelligence, I believe language itself is a great matter to consider when dealing with them. From the bottom level of Nature to the highest. We observe that language plays a crucial role in measuring intelligence. We will observe bees and ants with their complex communications and organizations and will state, They are smart!
+As a passionate about learning and intelligence, I believe language itself is a great matter to consider when dealing with them. From the bottom level of Nature to the highest. We observe that <mark>language complexity plays a crucial role in measuring intelligence</mark>. We will observe bees and ants with their complex communications and organizations and will state, They are smart!
 </p>
 
 <br/>
@@ -64,7 +64,7 @@ It is clear that learning finally cannot happen without the use of repetition. A
 </figure>
 <br/>
 <p style="text-align: justify;">
-However, I went a bit fast on talking about Rote learning without attempting to define learning. What is it to 'learn'? Stories have been said about learning. But let us keep it simple and say that learning is <mark>the process by which we get to 'understand'</mark> something. Now the next problem is to define 'understanding'. Understanding is a state in which we can explain to some degree of precision anything or a specific thing. For better support (ouf!) <strong>Nicolas Boileau</strong> said in his terms: <mark>What is well understood is clearly stated, and the words to say it come easily</mark>.
+However, I went a bit fast on talking about Rote learning without attempting to define learning. What is it to 'learn'? Stories have been said about learning. But let us keep it simple and say that learning is <mark>the process by which we get to 'understand'</mark> something. Now the next problem is to define 'understanding'. Understanding is a state in which we can explain to some degree of precision anything or a specific thing. For better support, <strong>Nicolas Boileau</strong> said in his terms: <mark>What is well understood is clearly stated, and the words to say it come easily</mark>.
 </p>
 
 <br/>
@@ -79,12 +79,12 @@ Now that we have an idea of what is learning and what is Rote learning, we can i
 
 <br/>
 <p style="text-align: justify;">
-I will stay in language because this is where I could give good examples :grinning:. For people who decide to learn a new language, they have gone through several techniques, but one of those is surely to repeat and memorize certain words (we call it vocabulary acquisition). The linguist David Wilkins said: "Without grammar, very little can be conveyed, but without vocabulary, nothing can be conveyed.". So definitely the most important aspect of learning a language is to acquire its vocabulary first.
+I will stay in language because this is where I could give good examples. For people who decide to learn a new language, they have gone through several techniques, but one of those is surely to repeat and memorize certain words (we call it <strong>vocabulary acquisition</strong>). The linguist David Wilkins said: <strong>"Without grammar, very little can be conveyed, but without vocabulary, nothing can be conveyed."</strong>. So definitely the most important aspect of learning a language is to acquire its vocabulary first.
 </p>
 
 <br/>
 <p style="text-align: justify;">
-In computer Science, for example, while building a compiler, we have to make sure the algorithm recognizes the words or 'tokens' otherwise, there is nothing to be done, and this is the first step. The same is true in artificial intelligence models; the first step is to come out with the correct split 'tokens'. For them to be correctly split, the algorithm needs to know them or at least recognize them.
+In computer Science, for example, while building a compiler, we have to make sure the algorithm recognizes the words or 'tokens' otherwise, there is <strong>nothing</strong> to be done, and this is the first step. The same is true in artificial intelligence models; the first step is to come out with the correct split 'tokens'. For them to be correctly split, the algorithm needs to know them or at least recognize them.
 </p>
 
 <br/>
@@ -94,7 +94,7 @@ How does vocabulary acquisition relate to  Rote learning? At the beginning of l
 
 <br/>
 <p style="text-align: justify;">
-What is happening here then is that by repeating the experience more and more, we get to retrieve the words and recognize them faster even if we don't understand them that much. For example, I am talking with a random cool Mexican guy eating some barbacoa tacos, and "blah blah, Todo, blah blah...". Well, I got to recognize the word "todo," even if it does not bring me the full understanding of the discussion at least the first step of recognizing the word from my memories is a huge step in language learning. Real understanding can never happen without first recognizing the items and words in language learning.
+What is happening here then is that by repeating the experience more and more, we get to <mark>retrieve the words and recognize them faster</mark> even if we don't understand them that much. For example, I am talking with a random cool Mexican guy eating some barbacoa tacos, and "blah blah, Todo, blah blah...". Well, I got to recognize the word "todo," even if it does not bring me the full understanding of the discussion at least the first step of recognizing the word from my memories is a huge step in language learning. Real understanding can never happen without first recognizing the items and words in language learning.
 </p>
 
 <br/>
