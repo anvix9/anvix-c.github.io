@@ -216,7 +216,7 @@ $$ i = 1,..., m & j=1,...,n$$
 </div>
 <br/>
 <div style="text-align:center;">
-<img source="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/khan_academy_matrix_product.gif" alt="element-wise multiplication illustration" width="300"/></div> 
+<img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/khan_academy_matrix_product.gif" alt="element-wise multiplication illustration" width="300"/></div> 
 
 <br/><br/>
 #### Step 2: Find a way to extract the matrix from the Original matrix 
@@ -425,7 +425,7 @@ The next experiments concerning convolutions will be more deeper and will tackle
 The full code as of now, can be found in the GitHub repository:
 <br/><br/>
 
-**[Full code](https://github.com/Anvi98/convolution)** (It has all the cpp, tpp and hpp files with comments).
+**[Full code](https://github.com/Anvi98/convolution)** (It has all the .cpp, .tpp and .hpp files with comments).
 <br/><br/>
 ## Takeaway: 
 <br/>
