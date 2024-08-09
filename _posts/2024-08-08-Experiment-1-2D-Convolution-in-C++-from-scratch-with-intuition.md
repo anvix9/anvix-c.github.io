@@ -198,12 +198,16 @@ Since the experiment was meant to be intuitive and introductory, I hard-coded th
 
 <br/>
 <p style="text-align: justify;">
-The nested for loop accesses each element of both matrices and multiplies them according to the formula of element-wise multiplication which is just here:
+The nested for loop accesses each element of both matrices and multiplies them according to the formula of element-wise multiplication where A and B are two matrices of same dimensions m X n. The formula is just here:
 </p>
+<br/>
+
 <div style="text-align: center;">
 $$
 C[i, j] = A[i, j] \times B[i, j]
 $$
+for all $$ i = 1,..., m and j=1,...,n$$
+
 </div>
 
 
