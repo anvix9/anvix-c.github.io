@@ -3,7 +3,7 @@ layout: post
 title:  "Rote Learning: How does it relate to Humans and Machines?"
 date:   2024-08-09
 last_modified_at: 2024-08-09
-categories: [Learning Theories]
+categories: [Learning Theory]
 tags: [AI, Machine learning, science, Learning Theories, Linguistics]
 ---
 
@@ -57,8 +57,13 @@ Rote learning is by itself a powerful learning paradigm, even with that definiti
 <p style="text-align: justify;">
 It is clear that learning finally cannot happen without the use of repetition. And Rote learning is all about it. I do not remember how I acquired my native language, but I can sense that seeing and hearing the same things all day long contributed to it.
 </p>
-<img src=""/>
 
+<figure style="text-align: center;">
+<img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/rote_learning_illustration.jpg" alt="Repeat image" width="300"/>
+    <br />    
+    <figcaption>Fig: The Calling of Saint Matthew painting. 1597 
+    </figcaption>
+</figure>
 <br/>
 <p style="text-align: justify;">
 However, I went a bit fast on talking about Rote learning without attempting to define learning. What is it to 'learn'? Stories have been said about learning. But let us keep it simple and say that learning is the process by which we get to 'understand' something. Now the next problem is to define 'understanding'. Understanding is a state in which we can explain to some degree of precision anything or a specific thing. For better support (ouf!) Nicolas Boileau said in his terms: What is well understood is clearly stated, and the words to say it come easily.
