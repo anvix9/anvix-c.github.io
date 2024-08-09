@@ -9,8 +9,6 @@ tags: [AI, Machine learning, science, Learning Theories, Linguistics]
 
 
 <br/><br/>
-# Rote learning: Are we parrot learners or are machines parrot learners? 
-<br/>
 
 ## Introduction 
 <br/><br/>
