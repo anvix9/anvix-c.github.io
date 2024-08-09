@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Experiment #1 2D Convolution in C++ from scratch with intuition"
+title:  "Experiment #1 2D-Convolution in C++ from scratch with intuition"
 date:   2024-08-08
 last_modified_at: 2024-08-08
 categories: [Experiments]
@@ -75,7 +75,7 @@ will be about studying more in deep the convolution operations and associated on
 <br/>
 
 <p style="text-align: justify;">
-To refresh my understanding of Convolution operations specifically in AI, I had to go over two articles. One is a Github repo and the one is an article well written by [detkov](https://github.com/detkov/Convolution-From-Scratch) I suggest reading for a better overview of how convolution ops are implemented in a CNN model. Here are the two references:
+To refresh my understanding of Convolution operations specifically in AI, I had to go over two articles. One is a Github repo and the one is an article well written by <a href="https://github.com/detkov/Convolution-From-Scratch" alt="link to github of detkov"/>detkov</a> I suggest reading for a better overview of how convolution ops are implemented in a CNN model. Here are the two references:
 </p>
 <br/>
 
