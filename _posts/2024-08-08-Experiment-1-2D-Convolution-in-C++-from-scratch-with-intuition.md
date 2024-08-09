@@ -2,7 +2,7 @@
 layout: post
 title:  "Experiment #1 2D-Convolution in C++ from scratch with intuition"
 date:   2024-08-08
-last_modified_at: 2024-08-08
+last_modified_at: 2024-08-09
 categories: [Experiments]
 tags: [AI, Machine learning, Mathematics, C++]
 ---
@@ -293,7 +293,7 @@ conv_result_matrix[start_idx_row][start_idx_col] = sum_res;
 
 ```
 <br/><br/>
-#### Full 2D convolution operation function:
+#### Full 2D convolution operation function
 <br/>
 
 Now, I can better understand the full logic of the 2D convolution operation through the code:
@@ -353,7 +353,7 @@ std::vector<std::vector<int>> conv2D(std::array<std::array<int, M>, N>& matrix, 
 ```
 <br/><br/>
 
-#### Explanation of the code:
+#### Explanation of the code
 <br/>
 The function built returns a matrix that results from a 2D convolution operation (a simple one).
 
@@ -394,7 +394,7 @@ int main(void){
 
 ```
 <br/><br/>
-#### Explanation of the piece of Code: 
+#### Explanation of the piece of Code 
 <br/>
 
 <p style="text-align: justify;">
@@ -420,7 +420,7 @@ The next experiments concerning convolutions will be more deeper and will tackle
 </p>
 
 <br/><br/>
-## Where to get the full code
+## Where to get the full code?
 <br/>
 The full code as of now, can be found in the GitHub repository:
 <br/><br/>
