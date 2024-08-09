@@ -168,7 +168,7 @@ The quality of this step depends on experience with the language and mine is not
 
 <br/>
 <p style="text-align: justify;">
-I kept the documentation so that it was easier to remember the logic.
+I kept the documentation so that it will be easier to remember the logic.
 </p>
 
 ```cpp
@@ -230,7 +230,7 @@ The nested for loop accesses each element of both matrices and multiplies them a
 <br/>
 
 <p style="text-align: justify;">
-Now that I am to compute the element-wise multiplication if I have the correct input matrices, then the problem is how to get those inputs from the given matrices I have. For the kernel, it is already given because the current experiment is simple. So the whole problem relies on getting the sub-matrices from the original matrix.
+Now that I can compute the element-wise multiplication if I have the correct input matrices, the problem is how to get those inputs from the given matrices I have. For the kernel, it is already given because the current experiment is simple. So the whole problem relies on getting the sub-matrices from the original matrix.
 This part is the most <mark>tricky and important</mark> after the function is built in the first step:
 </p>
 
@@ -248,6 +248,7 @@ int max_move_right = ((numCol_m - numCol_kernel)/stride) +1 ;
   
   // Use the info to traverse the matrix and extract sub-matrix
   for(int i=0; i< max_move_right * max_move_down; i ++){
+    // Extracting sub matrix from original one
     std::vector<std::vector<int>> tmp_sub_matrix(numRow_kernel, std::vector<int>(numCol_kernel));
     for(size_t j = 0 + start_idx_row ; j <numCol_kernel + start_idx_row; j ++){
       for(size_t k = 0 + start_idx_col ; k<numRow_kernel + start_idx_col; k++){
@@ -409,6 +410,14 @@ First and foremost, I needed to get the sizes of the concerned matrices (kernel 
 due to the constraint of the element-wise multiplication principle. When everything is good, I call the conv2D function on the kernel and matrix. 
 Finally, I output the resulting matrix. This is the end of the implementation but it is just the beginning of a bigger experiment as you can see in the second reference I mentioned at the beginning. 
 </p>
+
+<br/><br/>
+
+## Major challenges
+<br/>
+
+The major challenge I have to go through is to understand practically the relationships between the 2D convolution logic I was implementing and selecting the 
+correct data type. Either a C-like array or a vector. Not only that, I had some few times debugging <mark>which 'i' or 'j' in loops represent the columns or rows which was resulting in some out of bounds access errors</mark>.
 
 <br/><br/>
 
