@@ -93,7 +93,9 @@ I recommend these resources for a broader understanding of how convolution opera
 
 <p style="text-align: justify;">
 In the first step, I had to outline how it could be implemented and what could be the general steps to go through in order to perform a simple 2D convolution. <br/> 
-So what is the problem(technically speaking)?<br/>
+So what is the problem(technically speaking)?></p><br/>
+
+<p style="text-align: justify;">
 We have now an object which is here represented as a matrix (2 dimensions). Not only that, we have one separate environment we want to try the object on which is here in our case a filter or a kernel which is also of a 2-dimensional size. But here is the catch, for a simple implementation, the kernel size must be equal or less than the size of the object (original matrix).
 </p>
 
@@ -206,7 +208,7 @@ The nested for loop accesses each element of both matrices and multiplies them a
 $$
 C[i, j] = A[i, j] \times B[i, j]
 $$
-for all $$ i = 1,..., m and j=1,...,n$$
+for all $$ i = 1,..., m & j=1,...,n$$
 
 </div>
 
@@ -427,6 +429,6 @@ The full code as of now, can be found in the GitHub repository:
 Definitely, this first experiment targets the understanding of convolution operations from an intuitive approach and also attempts to build the operation from 
 scratch using a language like C++ which I have some preference for. So except that there is no big takeaway. But I believe the next experiments will give me some insights on performances (on memories, spaces, power, etc...), but also alternatives.
 </p>
-
+<hr/>
 <br/>
 <br/>
