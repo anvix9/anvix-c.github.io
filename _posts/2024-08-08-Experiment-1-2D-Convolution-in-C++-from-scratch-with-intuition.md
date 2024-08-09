@@ -226,7 +226,7 @@ $$ i = 1,..., m & j=1,...,n$$
 </div> 
 
 <br/><br/>
-#### Step 2: Find a way to extract the matrix from the Original matrix 
+### Step 2: Find a way to extract the matrix from the Original matrix 
 <br/>
 
 <p style="text-align: justify;">
@@ -270,7 +270,7 @@ int max_move_right = ((numCol_m - numCol_kernel)/stride) +1 ;
 
 ```
 <br/><br/>
-#### Explanation of Code 
+### Explanation of Code 
 <br/>
 
 <p style="text-align: justify;">
@@ -285,7 +285,7 @@ Above is the chunk of code I implemented for extracting in an <mark>(in-line fas
 - The subtraction I performed was the way I came up with to make sure the algorithm is not accessing the submatrix with an index out of boundaries since the size of the submatrix is already defined being the size of the kernel. 
 
 <br/><br/>
-#### Step 3: Convolution Calculation 
+### Step 3: Convolution Calculation 
 <br/>
 
 <p style="text-align: justify;">
@@ -300,7 +300,7 @@ conv_result_matrix[start_idx_row][start_idx_col] = sum_res;
 
 ```
 <br/><br/>
-#### Full 2D convolution operation function
+### Full 2D convolution operation function
 <br/>
 
 Now, I can better understand the full logic of the 2D convolution operation through the code:
@@ -360,12 +360,12 @@ std::vector<std::vector<int>> conv2D(std::array<std::array<int, M>, N>& matrix, 
 ```
 <br/><br/>
 
-#### Explanation of the code
+### Explanation of the code
 <br/>
 The function built returns a matrix that results from a 2D convolution operation (a simple one).
 
 <br/><br/>
-#### The main logic: Combine all pieces of code
+### The main logic: Combine all pieces of code
 <br/>
 Now that I have been able to build each core operation I can wrap them into a main function that executes them all together:
 <br/>
@@ -401,7 +401,7 @@ int main(void){
 
 ```
 <br/><br/>
-#### Explanation of the piece of Code 
+### Explanation of the piece of Code 
 <br/>
 
 <p style="text-align: justify;">
