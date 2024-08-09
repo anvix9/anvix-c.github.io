@@ -50,7 +50,7 @@ object we want to extract its associated features or behaviors (sometimes it is 
 
 <br/>
 <p style="text-align: justify;">
-The thing is that we are observing the behavior but we are not labeling it. We just know that in this environment, the virus has behaved that way. But we don't know why. And it is okay because we just want to observe the behaviors not to know why at this step. We just want to collect the <mark><strong>Hows</strong></mark>? (how the virus behaves) rather than <strong>Why</strong> is it so...
+The thing is that we are observing the behavior but we are not labeling it. We just know that in this environment, the virus has behaved that way. But we don't know why. And it is okay because we just want to observe the behaviors not to know why at this step. We just want to collect the <strong>Hows</strong>? (how the virus behaves) rather than <strong>Why</strong> is it so...
 </p>
 
 
@@ -216,7 +216,7 @@ $$ i = 1,..., m & j=1,...,n$$
 </div>
 <br/>
 <div style="text-align:center;">
-<img source="{% link assets/images/khan_academy_matrix_product.webp %}" alt="element-wise multiplication illustration" width="300"/></div> 
+<img source="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/khan_academy_matrix_product.webp" alt="element-wise multiplication illustration" width="300"/></div> 
 
 <br/><br/>
 #### Step 2: Find a way to extract the matrix from the Original matrix 
