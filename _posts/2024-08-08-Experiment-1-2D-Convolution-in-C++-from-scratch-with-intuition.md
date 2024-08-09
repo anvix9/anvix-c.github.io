@@ -216,7 +216,7 @@ $$ i = 1,..., m & j=1,...,n$$
 </div>
 <br/>
 <div style="text-align:center;">
-<img source="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/khan_academy_matrix_product.webp" alt="element-wise multiplication illustration" width="300"/></div> 
+<img source="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/khan_academy_matrix_product.gif" alt="element-wise multiplication illustration" width="300"/></div> 
 
 <br/><br/>
 #### Step 2: Find a way to extract the matrix from the Original matrix 
