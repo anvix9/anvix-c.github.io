@@ -208,7 +208,7 @@ The nested for loop accesses each element of both matrices and multiplies them a
 $$
 C[i, j] = A[i, j] \times B[i, j]
 $$
-for all $$ i = 1,..., m & j=1,...,n$$
+$$ i = 1,..., m & j=1,...,n$$
 
 </div>
 
@@ -418,7 +418,7 @@ The next experiments concerning convolutions will be more deeper and will tackle
 ## Where to get the full code
 <br/>
 The full code as of now, can be found in the GitHub repository:
-<br/>
+<br/><br/>
 
 **[Full code](https://github.com/Anvi98/convolution)**
 <br/><br/>
