@@ -14,7 +14,7 @@ tags: [AI, Machine learning, Mathematics, C++]
 
 <p style="text-align: justify;">
 One of the experiments I really wanted to dig into personally was the convolution operations widely used not only in Signal processing but Artificial intelligence.
-Those who have enough experience in any field of Math or artificial intelligence, have at least heard about convolutions, filters, or kernels. 
+Those who have enough experience in any field of related to Mathematics, have at least heard about convolutions, filters, or kernels. 
 Such terms are so wildly used in those domains that it is difficult to not really have heard of them once. 
 </p>
 <br/>
@@ -25,7 +25,7 @@ useful</mark>, especially in Artificial intelligence as feature extraction techn
 
 <br/>
 <p style="text-align: justify;">
-So I decided to run several experiments on Convoltions. Not only one, but several which the current one constitutes the first one. 
+So I decided to run several experiments on Convoltions. Not only one, but several which the current article constitutes the first one. 
 </p>
 
 <br/><br/>
@@ -50,13 +50,13 @@ object we want to extract its associated features or behaviors (sometimes it is 
 
 <br/>
 <p style="text-align: justify;">
-The thing is that we are observing the behavior but we are not labeling it. We just know that in this environment, the virus has behaved that way. But we don't know why. And it is okay because we just want to observe the behaviors not to know why at this step. We just want to collect the <strong>Hows</strong>? (how the virus behaves) rather than <strong>Why</strong> is it so...
+The thing is that we are observing the behavior but we are not labeling it. We just know that in this environment, the virus has behaved that way. But we don't know why. And it is okay because we just want to observe the behaviors not to know why at this step. We just want to collect the <mark><strong>Hows</strong></mark>? (how the virus behaves) rather than <strong>Why</strong> is it so...
 </p>
 
 
 <br/>
 <p style="text-align: justify;">
-So in simple terms, we can see that if we know how to select the correct sets of environments, we can learn so interesting behaviors concerning the virus. This 
+So in simple terms, we can see that if we know how to select <mark>the correct sets of environments</mark>, we can learn so interesting behaviors concerning the virus. This 
 is what it all is about convolution operations or at least for this introduction about it. We don't want to directly and manually extract those features like it could be done by a chemist, rather, we want to make it automatic but at the same time, we want to know the most important environments that trigger certain behaviors because not all environments will give us good information in the same way not all the kernels or filters will extract important features. 
 </p>
 
@@ -65,7 +65,7 @@ is what it all is about convolution operations or at least for this introduction
 <br/>
 
 <p style="text-align: justify;">
-For this first experiment about convolution operations, I just want to implement it from scratch in C++ and get the intuition behind it. Because first, I want it to stay in this environment for my experiments. It gives a deeper control over my thinking processes but also I am a bit closer to the hardware logic.
+For this first experiment about convolution operations, I just want to implement it from scratch in C++ and get the intuition behind it. Because first, I want it to stay in this environment for my experiments. It gives a deeper control over my thinking processes but also be <mark>a bit closer</mark> to the hardware logic.
 This first experiment is to understand how a simple convolution can be implemented in C++. And focusing on the logic implementation. Then, the following experiments 
 will be about studying more in deep the convolution operations and associated ones.
 </p>
@@ -92,11 +92,14 @@ I recommend these resources for a broader understanding of how convolution opera
 <br/>
 
 <p style="text-align: justify;">
-In the first step, I had to outline how it could be implemented and what could be the general steps to go through in order to perform a simple 2D convolution. <br/> 
-So what is the problem(technically speaking)?></p><br/>
+In the first step, I had to outline how it could be implemented and what could be the general steps to go through in order to perform a simple 2D convolution.  
+</p>
+<br/>
+So what is the problem (technically speaking)?
+<br/>
 
 <p style="text-align: justify;">
-We have now an object which is here represented as a matrix (2 dimensions). Not only that, we have one separate environment we want to try the object on which is here in our case a filter or a kernel which is also of a 2-dimensional size. But here is the catch, for a simple implementation, the kernel size must be equal or less than the size of the object (original matrix).
+We have now an object which is here represented as a matrix (2 dimensions). Not only that, we have one separate environment we want to try the object on which is here in our case a filter or a kernel which is also of a 2-dimensional size. But here is the catch, for a simple implementation, <mark>the kernel size must be equal or less than the size of the object</mark> (original matrix).
 </p>
 
 <br/>
@@ -122,28 +125,28 @@ The first step, in this experiment was to identify the most important operation 
 
 <br/>
 <p style="text-align: justify;">
-The motive behind the first step is that it makes it much easier to solve the problem by identifying the core operation or operations and then link all together.
+The motive behind the first step is that it makes it much easier to solve the problem by identifying <mark>the core operation or operations</mark> and then link all together.
 As we can understand this problem, the function built on the first step will serve recursively until we reach the last position possible by the kernel inside the original matrix.
 </p>
 
 <br/>
-#### Step 1: Build the element-wise function multiplicator 
+### Step 1: Build the element-wise function multiplicator 
 <br/>
-#### Problem definition:
+### Problem definition:
 <br/>
 
-So what is the problem here? <br/> 
+So what is the problem here? <br/> <br/>
 
 <p style="text-align: justify;">
 Given two matrices of the same size, return a matrix that is the product of an element-wise multiplication. 
 </p>
 
 <br/>
-#### Code it now: 
+### Code it now: 
 <br/>
 
 <p style="text-align: justify;">
-The quality of this step depends on experience with the language and mine is not the top one. I actually went a bit further and computed the result value on step 4 and returned it through the function. This is one way to implement it: 
+The quality of this step depends on experience with the language and mine is not the top one. I actually went a bit further and computed the result value on step 4 (mentioned earlier) and returned it through the function. This is one way to implement it: 
 </p>
 
 <br/>
@@ -166,7 +169,7 @@ template <size_t M, size_t N>
 std::tuple<int, std::vector<std::vector<int>>>
 element_wise_matmul(
     const std::vector<std::vector<int>>& matrix, 
-    const std::array<std::array<int, M>, N> & kernel
+    const std::array<std::array<int, M>, N>& kernel
     ){
 
     size_t numCol_matrix = matrix.size(); 
@@ -179,7 +182,7 @@ element_wise_matmul(
  
   for(size_t i = 0; i < numRow_kernel; i ++){
       for(size_t j = 0; j < numCol_kernel; j ++){
-        res_matrix[i][j] = kernel[i][j] * matrix[i][j]; // here is the multiplication 
+        res_matrix[i][j] = kernel[i][j] * matrix[i][j]; // here is the element-wise multiplication 
         sum_elements += res_matrix[i][j]; // Here is saving incrementally of each result from the multiplication.
       }
     }
@@ -189,7 +192,7 @@ element_wise_matmul(
 
 ```
 <br/><br/>
-#### Explanation of Code 
+### Explanation of Code 
 <br/> 
 
 <p style="text-align: justify;">
@@ -211,7 +214,9 @@ $$
 $$ i = 1,..., m & j=1,...,n$$
 
 </div>
-
+<br/>
+<div style="text-align:center;">
+<img source="{% link assets/images/khan_academy_matrix_product.webp %}" alt="element-wise multiplication illustration" width="300"/></div> 
 
 <br/><br/>
 #### Step 2: Find a way to extract the matrix from the Original matrix 
@@ -219,8 +224,7 @@ $$ i = 1,..., m & j=1,...,n$$
 
 <p style="text-align: justify;">
 Now that I am to compute the element-wise multiplication if I have the correct input matrices, then the problem is how to get those inputs from the given matrices I have. For the kernel, it is already given because the current experiment is simple. So the whole problem relies on getting the sub-matrices from the original matrix.
-This part is the most tricky and important after the function is built in the first step. 
-This is what I have done:
+This part is the most <mark>tricky and important</mark> after the function is built in the first step:
 </p>
 
 <br/>
@@ -263,7 +267,7 @@ int max_move_right = ((numCol_m - numCol_kernel)/stride) +1 ;
 <br/>
 
 <p style="text-align: justify;">
-Above is the chunk of code I implemented for extracting in an (in-line fashion) the submatrix given that I have the maximum number of moves to perform from top-left to bottom-right. The most important part to remember in this chunk is the definition of the temporary vector that stores the submatrix and after each iteration is initialized and modified. 
+Above is the chunk of code I implemented for extracting in an <mark>(in-line fashion)</mark> the submatrix given that I have the maximum number of moves to perform from top-left to bottom-right. The most important part to remember in this chunk is the definition of the temporary vector that stores the submatrix and after each iteration is initialized and modified. 
 </p>
 
 <br/>
@@ -284,7 +288,7 @@ I have put previously in the code section that there is a missing code. Here is 
 <br/>
 ```cpp
 // Perform element-wise ops 
-auto [sum_res, sub_res_m] = element_wise_matmul(tmp_sub_matrix, kernel);
+auto [sum_res, sub_res_m] = element_wise_matmul(tmp_sub_matrix, kernel); // call of the element-wise_matmul
 conv_result_matrix[start_idx_row][start_idx_col] = sum_res;
 
 ```
@@ -354,10 +358,11 @@ std::vector<std::vector<int>> conv2D(std::array<std::array<int, M>, N>& matrix, 
 The function built returns a matrix that results from a 2D convolution operation (a simple one).
 
 <br/><br/>
-#### The main logic: Combine all pieces of code:
+#### The main logic: Combine all pieces of code
 <br/>
 Now that I have been able to build each core operation I can wrap them into a main function that executes them all together:
 <br/>
+
 ```cpp
 int main(void){
   
@@ -420,14 +425,13 @@ The next experiments concerning convolutions will be more deeper and will tackle
 The full code as of now, can be found in the GitHub repository:
 <br/><br/>
 
-**[Full code](https://github.com/Anvi98/convolution)**
+**[Full code](https://github.com/Anvi98/convolution)** (It has all the cpp, tpp and hpp files with comments).
 <br/><br/>
 ## Takeaway: 
 <br/>
 
 <p style="text-align: justify;">
-Definitely, this first experiment targets the understanding of convolution operations from an intuitive approach and also attempts to build the operation from 
-scratch using a language like C++ which I have some preference for. So except that there is no big takeaway. But I believe the next experiments will give me some insights on performances (on memories, spaces, power, etc...), but also alternatives.
+Definitely, this first experiment targets the understanding of convolution operations from an intuitive approach and also attempts to build the operation from scratch using a language like C++ which I have some preference for. So except that there is no big takeaway. But I believe the next experiments will give me some insights on performances (on memories, spaces, power, etc...), but also alternatives.
 </p>
 <br/>
 <br/>
