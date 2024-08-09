@@ -7,7 +7,7 @@ permalink: /about/
 <br/>
 
 <p style="text-align: justify;">
-Just a passionate of learning. I do a lot of experiments and reflects on them either on AI or other stuffs that you will be able to see in this blog. I don't walk with the trends <strong>blindly</strong> I rather question it and go reverse if necessary. As Feynman said, <mark>there is a difference between knowing the name of something and knowing what that thing is</mark>. I will be mostly treating subject that is closely related to learning from the theory to the practical point of view. 
+Just a passionate of learning. I do a lot of experiments and reflects on them either on AI or other stuffs that you will be able to see in this blog. I don't walk with the trends <strong>blindly</strong> I rather question it and go reverse if necessary. As Feynman said, <mark>there is a difference between knowing the name of something and knowing what that thing is</mark>. I will be mostly treating subjects that are closely related to learning from theory to the practical point of view. 
 
 </p>
 
