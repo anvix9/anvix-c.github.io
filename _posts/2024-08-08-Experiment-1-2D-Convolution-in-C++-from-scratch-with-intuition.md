@@ -19,8 +19,8 @@ Such terms are so wildly used in those domains that it is difficult to not reall
 </p>
 <br/>
 <p style="text-align: justify;">
-My motives for investigating this operation were not because they are famous only. I wanted to learn about them in deep but also observe how and why they are so 
-useful, especially in Artificial intelligence as feature extraction techniques. 
+My motives for investigating this operation were not because they are famous only. I wanted to learn about them in deep but also observe <mark>how and why they are so 
+useful</mark>, especially in Artificial intelligence as feature extraction techniques. 
 </p>
 
 <br/>
@@ -33,7 +33,7 @@ So I decided to run several experiments on Convoltions. Not only one, but severa
 <br/>
 <p style="text-align: justify;">
 Up to now, I see convolution operations as a way to extract information from a single object observed. I still have this strong example that resonates with me.
-Let's say we are a chemist and we want to study the behaviors of a particular virus put on several kinds of environments. We try first to let the virus in a sugar-free environment, then observe and take notes of what is happening then we change, and so on until we have exhausted all the possibilities of our imaginations.
+Let's say we are a chemist and we want to study the behaviors of a particular virus put on several kinds of environments. We try first to let the virus in a sugar-free environment, <mark>then observe and take notes of what is happening then we change</mark>, and so on until we have exhausted all the possibilities of our imaginations.
 </p>
 
 <br/>
@@ -50,7 +50,7 @@ object we want to extract its associated features or behaviors (sometimes it is 
 
 <br/>
 <p style="text-align: justify;">
-The thing is that we are observing the behavior but we are not labeling it. We just know that in this environment, the virus has behaved that way. But we don't know why. And it is okay because we just want to observe the behaviors not to know why at this step. We just want to collect the **Hows** (how the virus behaves) rather than **Why** is it so...
+The thing is that we are observing the behavior but we are not labeling it. We just know that in this environment, the virus has behaved that way. But we don't know why. And it is okay because we just want to observe the behaviors not to know why at this step. We just want to collect the <strong>Hows</strong>? (how the virus behaves) rather than <strong>Why</strong> is it so...
 </p>
 
 
@@ -416,8 +416,9 @@ The next experiments concerning convolutions will be more deeper and will tackle
 ## Where to get the full code
 <br/>
 The full code as of now, can be found in the GitHub repository:
+<br/>
 
-[Full code](https://github.com/Anvi98/convolution)
+**[Full code](https://github.com/Anvi98/convolution)**
 <br/><br/>
 ## Takeaway: 
 <br/>
