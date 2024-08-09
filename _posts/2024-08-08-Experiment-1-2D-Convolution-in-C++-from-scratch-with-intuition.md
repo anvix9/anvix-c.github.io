@@ -65,7 +65,7 @@ is what it all is about convolution operations or at least for this introduction
 <br/>
 
 <p style="text-align: justify;">
-For this first experiment about convolution operations, I just want to implement it from scratch in C++ and get the intuition behind it. Because first, I want it to stay in this environment for my experiments. It gives me deeper control over my thinking processes but also I am a bit closer to the hardware logic.
+For this first experiment about convolution operations, I just want to implement it from scratch in C++ and get the intuition behind it. Because first, I want it to stay in this environment for my experiments. It gives a deeper control over my thinking processes but also I am a bit closer to the hardware logic.
 This first experiment is to understand how a simple convolution can be implemented in C++. And focusing on the logic implementation. Then, the following experiments 
 will be about studying more in deep the convolution operations and associated ones.
 </p>
@@ -77,13 +77,14 @@ will be about studying more in deep the convolution operations and associated on
 <p style="text-align: justify;">
 To refresh my understanding of Convolution operations specifically in AI, I had to go over two articles. One is a Github repo and the one is an article well written by @_ I suggest reading for a better overview of how convolution ops are implemented in a CNN model. Here are the two references:
 </p>
+<br/>
 
 - [Intuition of Convolution in Python](https://github.com/detkov/Convolution-From-Scratch)
 - [CNN from scratch with pure Math intuition](https://lunar-joke-35b.notion.site/CNN-from-Scratch-with-pure-Mathematical-Intuition-a201ef0ca1314058a1707a3ae260981e) (also Python)
 
 <br/>
 <p style="text-align: justify;">
-I recommend these resources for a broader understanding of how convolution operations are implemented in CNN models.
+I recommend these resources for a broader understanding of how convolution operations are implemented in CNN models since they have great illustrations.
 </p>
 
 <br/><br/>
@@ -199,7 +200,12 @@ Since the experiment was meant to be intuitive and introductory, I hard-coded th
 <p style="text-align: justify;">
 The nested for loop accesses each element of both matrices and multiplies them according to the formula of element-wise multiplication which is just here:
 </p>
-$$C[i, j] = A[i, j] * B[i, j]$$.
+<div style="text-align: center;">
+$$
+C[i, j] = A[i, j] \times B[i, j]
+$$
+</div>
+
 
 <br/><br/>
 #### Step 2: Find a way to extract the matrix from the Original matrix 
