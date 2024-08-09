@@ -1,5 +1,5 @@
 - default: menu_index
-  url: 'categories'
+  url: 'index'
 
 - default: menu_category
   url: 'categories'
