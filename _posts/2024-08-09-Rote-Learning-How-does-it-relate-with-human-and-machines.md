@@ -55,7 +55,7 @@ Rote learning is by itself a powerful learning paradigm, even with that definiti
 <p style="text-align: justify;">
 It is clear that learning finally cannot happen without the use of repetition. And Rote learning is all about it. I do not remember how I acquired my native language, but I can sense that seeing and hearing the same things all day long contributed to it.
 </p>
-
+<br/>
 <figure style="text-align: center;">
 <img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/rote_learning_illustration.jpg" alt="Repeat image" width="300"/>
     <br />    
