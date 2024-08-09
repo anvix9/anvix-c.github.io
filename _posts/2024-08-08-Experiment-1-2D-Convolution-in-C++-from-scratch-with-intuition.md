@@ -14,7 +14,7 @@ tags: [AI, Machine learning, Mathematics, C++]
 
 <p style="text-align: justify;">
 One of the experiments I really wanted to dig into personally was the convolution operations widely used not only in Signal processing but Artificial intelligence.
-Those who have enough experience in any field of related to Mathematics, have at least heard about convolutions, filters, or kernels. 
+Those who have enough experience in any field related to Mathematics, have at least heard about convolutions, filters, or kernels. 
 Such terms are so wildly used in those domains that it is difficult to not really have heard of them once. 
 </p>
 <br/>
@@ -56,8 +56,7 @@ The thing is that we are observing the behavior but we are not labeling it. We j
 
 <br/>
 <p style="text-align: justify;">
-So in simple terms, we can see that if we know how to select <mark>the correct sets of environments</mark>, we can learn so interesting behaviors concerning the virus. This 
-is what it all is about convolution operations or at least for this introduction about it. We don't want to directly and manually extract those features like it could be done by a chemist, rather, we want to make it automatic but at the same time, we want to know the most important environments that trigger certain behaviors because not all environments will give us good information in the same way not all the kernels or filters will extract important features. 
+So in simple terms, we can see that if we know how to select <mark>the correct sets of environments</mark>, we can learn so interesting behaviors concerning the virus. This is what it is all about when thinking of convolution operations or at least for this introduction about it. We don't want to directly and manually extract those features like it could be done by a chemist, rather, we want to make it automatic but at the same time, we want to know the most important environments that trigger certain behaviors because not all environments will give us good information in the same way not all the kernels or filters will extract important features. 
 </p>
 
 <br/><br/>
@@ -104,7 +103,7 @@ We have now an object which is here represented as a matrix (2 dimensions). Not 
 
 <br/>
 <p style="text-align: justify;">
-Yes, it does not make sense with the analogy where we talk about environments because in that case, the kernel has to be bigger right? but we want to have an environment that makes sense for us to observe the virus. For example, We know that the virus directly dies after a few seconds in an environment that has a temperature higher than 200 degrees Celcius. This is beyond the limits of the virus so why should we take into account such environments with **higher** temperatures? So it makes sense, for now, to not take a kernel bigger than the object size (original matrix).
+Yes, it does not make sense with the analogy where we talk about environments because in that case, the kernel has to be bigger right? but we want to have an environment that makes sense for us to observe the virus. For example, We know that the virus directly dies after a few seconds in an environment that has a temperature higher than 200 degrees Celcius. This is beyond the limits of the virus so why should we take into account such environments with <strong>higher</strong> temperatures? So it makes sense, for now, to not take a kernel bigger than the object size (original matrix).
 </p>
 <br/><br/>
 
@@ -120,7 +119,7 @@ The first step, in this experiment was to identify the most important operation 
 - Find a way to extract sub-matrices from top-left to right in a descending order(top to bottom) in the original matrix (bigger matrix) which has the same size as the kernel;
 - Use the function built to compute the resulting matrix in an element-wise fashion; 
 - Take the resulting matrix and sum all the elements inside it. Save the value in a secure place where it will serve as an element of the final convolution matrix;
-- Repeat step 3 until we have exhausted all the possible positions given by the matrix size, the kernel, and the move set to 1 from left to right (This move is called stride).
+- Repeat from step 3 until we have exhausted all the possible positions given by the matrix size, the kernel, and the move set to 1 from left to right (This move is called stride).
 
 
 <br/>
@@ -138,8 +137,26 @@ As we can understand this problem, the function built on the first step will ser
 So what is the problem here? <br/> <br/>
 
 <p style="text-align: justify;">
-Given two matrices of the same size, return a matrix that is the product of an element-wise multiplication. 
+Given two matrices of the same size, return a matrix that is the product of an element-wise multiplication of the two. 
 </p>
+
+<div style="text-align: center;">
+$$
+C[i, j] = A[i, j] \times B[i, j]
+$$
+$$ i = 1,..., m & j=1,...,n$$
+
+</div>
+<br/>
+<div style="text-align:center;">
+
+<figure style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/khan_academy_matrix_product.gif" alt="element-wise multiplication illustration" width="300"/>
+    <br />
+    <figcaption>Fig.1: Element-wise multiplication (Khan academy).
+    </figcaption>
+</figure>
+</div> 
 
 <br/>
 ### Code it now: 
@@ -203,27 +220,10 @@ Since the experiment was meant to be intuitive and introductory, I hard-coded th
 
 <br/>
 <p style="text-align: justify;">
-The nested for loop accesses each element of both matrices and multiplies them according to the formula of element-wise multiplication where A and B are two matrices of same dimensions m X n. The formula is just here:
-</p>
+The nested for loop accesses each element of both matrices and multiplies them according to the formula of element-wise multiplication.</p>
 <br/>
 
-<div style="text-align: center;">
-$$
-C[i, j] = A[i, j] \times B[i, j]
-$$
-$$ i = 1,..., m & j=1,...,n$$
 
-</div>
-<br/>
-<div style="text-align:center;">
-
-<figure style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/khan_academy_matrix_product.gif" alt="element-wise multiplication illustration" width="300"/>
-    <br />
-    <figcaption>Fig.1: Element-wise multiplication (Khan academy).
-    </figcaption>
-</figure>
-</div> 
 
 <br/><br/>
 ### Step 2: Find a way to extract the matrix from the Original matrix 
@@ -434,7 +434,7 @@ The full code as of now, can be found in the GitHub repository:
 
 **[Full code](https://github.com/Anvi98/convolution)** (It has all the .cpp, .tpp and .hpp files with comments).
 <br/><br/>
-## Takeaway: 
+## Takeaway 
 <br/>
 
 <p style="text-align: justify;">
