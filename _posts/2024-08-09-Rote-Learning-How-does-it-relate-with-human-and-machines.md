@@ -19,7 +19,7 @@ What a time to live in! We are experiencing any kinds of breakthroughs in techno
 <br/>
 
 <p style="text-align: justify;">
-How did I come up with an understanding of English? I remembered being in high school and realizing I was able now to understand with good familiarity the language and felt surprised. How did this happen?Now that I am trying to be 'familiar' with Spanish, I am lucky to have this introspection thought on how we really learn a new language. What are the inner processes of it?
+How did I come up with an understanding of English? I remembered being in high school and realizing I was able now to understand with good familiarity the language and felt surprised. How did this happen? Now that I am trying to be 'familiar' with Spanish, I am lucky to have this introspection thought on how we really learn a new language. What are the inner processes of it?
 </p>
 
 <br/>
