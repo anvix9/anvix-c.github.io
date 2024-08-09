@@ -64,7 +64,7 @@ It is clear that learning finally cannot happen without the use of repetition. A
 </figure>
 <br/>
 <p style="text-align: justify;">
-However, I went a bit fast on talking about Rote learning without attempting to define learning. What is it to 'learn'? Stories have been said about learning. But let us keep it simple and say that learning is the process by which we get to 'understand' something. Now the next problem is to define 'understanding'. Understanding is a state in which we can explain to some degree of precision anything or a specific thing. For better support (ouf!) Nicolas Boileau said in his terms: What is well understood is clearly stated, and the words to say it come easily.
+However, I went a bit fast on talking about Rote learning without attempting to define learning. What is it to 'learn'? Stories have been said about learning. But let us keep it simple and say that learning is <mark>the process by which we get to 'understand'</mark> something. Now the next problem is to define 'understanding'. Understanding is a state in which we can explain to some degree of precision anything or a specific thing. For better support (ouf!) <strong>Nicolas Boileau</strong> said in his terms: <mark>What is well understood is clearly stated, and the words to say it come easily</mark>.
 </p>
 
 <br/>
@@ -79,7 +79,7 @@ Now that we have an idea of what is learning and what is Rote learning, we can i
 
 <br/>
 <p style="text-align: justify;">
-I will stay in language because this is where I could give good examples (;-)). For people who decide to learn a new language, they have gone through several techniques, but one of those is surely to repeat and memorize certain words (we call it vocabulary acquisition). The linguist David Wilkins said: "Without grammar, very little can be conveyed, but without vocabulary, nothing can be conveyed.". So definitely the most important aspect of learning a language is to acquire its vocabulary first.
+I will stay in language because this is where I could give good examples :grinning:. For people who decide to learn a new language, they have gone through several techniques, but one of those is surely to repeat and memorize certain words (we call it vocabulary acquisition). The linguist David Wilkins said: "Without grammar, very little can be conveyed, but without vocabulary, nothing can be conveyed.". So definitely the most important aspect of learning a language is to acquire its vocabulary first.
 </p>
 
 <br/>
