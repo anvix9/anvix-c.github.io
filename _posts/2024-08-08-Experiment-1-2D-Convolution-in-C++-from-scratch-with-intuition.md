@@ -429,6 +429,5 @@ The full code as of now, can be found in the GitHub repository:
 Definitely, this first experiment targets the understanding of convolution operations from an intuitive approach and also attempts to build the operation from 
 scratch using a language like C++ which I have some preference for. So except that there is no big takeaway. But I believe the next experiments will give me some insights on performances (on memories, spaces, power, etc...), but also alternatives.
 </p>
-<hr/>
 <br/>
 <br/>
