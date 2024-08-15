@@ -85,15 +85,21 @@ But what is really knowledge? To better understand it, let us illustrate it via 
 
 > **Daysie** and **Sarah**, two best friends, found themselves in a heated debate about **fire**. Daysie was convinced that her dad told her fire wasn’t dangerous at all. Meanwhile, Sarah’s mom had warned her that playing with fire could be super risky.  
 >
+>
 > Determined to settle their argument, Daysie invited Sarah to her house for a special **experiment**. With a twinkle in his eye, Daysie’s dad set up a test with a candle. “Let’s see if fire is as harmless as we think,” he said.  
+>
 >
 > The experiment was simple but a bit nerve-wracking. Daysie and Sarah had to put one of their fingers near the flame, just for a moment. Both kids hesitated but agreed to give it a try.  
 >
+>
 > As the candle flickered, Daysie bravely went first. She carefully touched her finger to the flame and quickly pulled it back. **Ouch!** She winced; it turned out the fire was indeed hot and could hurt.  
+>
 >
 > Sarah, watching closely, felt a mix of relief and curiosity. Now it was her turn. She cautiously approached the candle, touched the flame, and **yelped!** Just like Daysie, she learned firsthand that fire was not to be taken lightly.  
 >
+>
 > Daysie’s dad smiled and said, “Well, now you both know. Fire can be tricky, and it’s important to be careful around it.” The once-heated debate between the friends was now cooled by their shared experience.  
+>
 >
 > From that day forward, Daysie and Sarah understood that sometimes, even if someone older says something, it’s good to **check it out for yourself.**
 
