@@ -79,7 +79,7 @@ Now that we have an idea of what is learning and what is Rote learning, we can i
 
 <br/>
 <p style="text-align: justify;">
-I will stay in language because this is where I could give good examples. For people who decide to learn a new language, they have gone through several techniques, but one of those is surely to repeat and memorize certain words (we call it <strong>vocabulary acquisition</strong>). The linguist David Wilkins said: <strong>"Without grammar, very little can be conveyed, but without vocabulary, nothing can be conveyed."</strong>. So definitely the most important aspect of learning a language is to acquire its vocabulary first.
+I will stay in language because this is where I could give good examples. For people who have decided to learn a new language, they have gone through several techniques, but one of those is surely to repeat and memorize certain words (we call it <strong>vocabulary acquisition</strong>). The linguist David Wilkins said: <strong>"Without grammar, very little can be conveyed, but without vocabulary, nothing can be conveyed."</strong>. So definitely the most important aspect of learning a language is to acquire its vocabulary first.
 </p>
 
 <br/>
