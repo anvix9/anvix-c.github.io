@@ -40,6 +40,7 @@ The past, in all its glory and heartache, has become a prison. And as I look aro
 <p style="text-align: justify;">
 The photographs—they sit there, still and silent, but what stories do they really tell? Of love lost or merely misplaced? Of lives lived or just imagined? The faces in those images, frozen in their fleeting moments, seem to whisper, "We are gone, but we were once here.", leaving me in cage wishing to fly where they are...
 </p>
+<br/><br/>
 
 <figure style="text-align: center;">
 <img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/faded_memories_by_berkozturk.jpg" alt="Repeat image" width="300"/>
