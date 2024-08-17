@@ -48,6 +48,8 @@ The photographs—they sit there, still and silent, but what stories do they rea
     </figcaption>
 </figure>
 
+<br/>
+
 <h3>Side Notes</h3>
 
 <p style="text-align: justify;">
