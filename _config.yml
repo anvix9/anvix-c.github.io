@@ -9,7 +9,7 @@ description: # this means to ignore newlines until "baseurl:"
   We cannot create intelligence, but at least we can play with it and imitate it.
 keywords: [Mathematics, AI, NLP, ML, DL, Brain, Neuroscience, Brain computer interface]
 baseurl: '' # the subpath of your site, e.g. /`blog
-url: 'https://anvi98.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://www.pinealai.net' # the base hostname & protocol for your site, e.g. http://example.com
 domain: 'pinealai.net' # the domain name for your site, e.g. example.com
 language: en
 # Supported languages list:
