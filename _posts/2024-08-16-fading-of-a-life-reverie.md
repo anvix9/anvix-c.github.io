@@ -19,7 +19,7 @@ As you might have noticed as a slogan on top of my blog, I also intend to have a
 ---------
 <br/>
 <p style="text-align: justify;">
-The old photographs are yellowing at the edges, an archive of yesteryears that no longer belong to the present but cling stubbornly to their past glory, those sepia-tinted whispers of a time when everything felt fuller, more vibrant. Did we ever truly believe that love could be captured in a single frame, that happiness was a thing you could hold between your fingers like the cool, dry leaves of a pressed flower? The world was supposed to be different back then, Wasn’t it? Or did we simply wish it so, spinning dreams around ourselves like threads of gossamer in a web too fragile to support even a single breath
+The old photographs are yellowing at the edges, an archive of yesteryears that no longer belong to the present but cling stubbornly to their past glory, those sepia-tinted whispers of a time when everything felt fuller, more vibrant. Did we ever truly believe that love could be captured in a single frame, that happiness was a thing you could hold between your fingers like the cool, dry leaves of a pressed flower? The world was supposed to be different back then, Wasn’t it? Or did we simply wish it so, spinning dreams around ourselves like threads of gossamer in a web too fragile to support even a single breath.
 </p>
 <br/>
 
@@ -29,7 +29,7 @@ I remember the smell of rain on cobblestones, the way the world seemed to hold i
 <br/>
 
 <p style="text-align: justify;">
-Sentimentalism, they said, was for the weak, the dreamers, those who couldn't face the unyielding concrete of reality. And maybe they were right. Maybe nostalgia is nothing more than a gilded cage, a prison of our own making, locking us away from the harsh truth that everything is transient, that even memories can erode with time.
+Sentimentalism, they said, was for the weak, the dreamers, those who couldn't face the unyielding concrete of reality. And maybe they were right. Maybe nostalgia is nothing more than a gilded cage, <mark> a prison of our own making</mark>, locking us away from the harsh truth that everything is transient, that even memories can erode with time.
 </p>
 <br/>
 
@@ -39,12 +39,12 @@ The chain grows heavier with each step, a burden of sentiment that I carry with 
 <br/>
 
 <p style="text-align: justify;">
-The past, in all its glory and heartache, has become a prison. And as I look around at the present, I wonder if I’ll ever truly escape, or if I’ll forever be caught in the chains of my own making, reliving a past that exists only in the confines of my memory.
+The past, in all its glory and heartache, has become a prison. And as I look around at the present, I wonder if I’ll ever truly escape, or if I’ll forever be caught in the chains of my seeds, reliving a past that exists only in the confines of my memory.
 </p>
 <br/>
 
 <p style="text-align: justify;">
-The photographs—they sit there, still and silent, but what stories do they really tell? Of love lost or merely misplaced? Of lives lived or just imagined? The faces in those images, frozen in their fleeting moments, seem to whisper, "We are gone, but we were once here.", leaving me in cage wishing to fly where they are...
+The photographs—they sit there, still and silent, but what stories do they really tell? Of love lost or <mark>merely misplaced</mark>? Of lives lived or <mark>just imagined</mark>? The faces in those images, frozen in their fleeting moments, seem to whisper, "We are gone, but we were once here.", leaving me in cage wishing to fly where they are...
 </p>
 <br/><br/>
 
