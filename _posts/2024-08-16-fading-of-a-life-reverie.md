@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Fading of a life reverie"
+date:   2024-08-16
+last_modified_at: 2024-08-16
+categories: [Collections]
+tags: [AI, Machine learning, reality, poems, stream-of-counsciousness]
+---
+
+
+<br/><br/>
+
+
+The old photographs are yellowing at the edges, an archive of yesteryears that no longer belong to the present but cling stubbornly to their past glory, those sepia-tinted whispers of a time when everything felt fuller, more vibrant. Did we ever truly believe that love could be captured in a single frame, that happiness was a thing you could hold between your fingers like the cool, dry leaves of a pressed flower? The world was supposed to be different back then, Wasn’t it? Or did we simply wish it so, spinning dreams around ourselves like threads of gossamer in a web too fragile to support even a single breath
+
+I remember the smell of rain on cobblestones, the way the world seemed to hold its breath when the skies wept, but now—now it’s just wet asphalt, the acrid scent of industrial cleanser, a bitter reminder of progress...
+
+Sentimentalism, they said, was for the weak, the dreamers, those who couldn't face the unyielding concrete of reality. And maybe they were right. Maybe nostalgia is nothing more than a gilded cage, a prison of our own making, locking us away from the harsh truth that everything is transient, that even memories can erode with time.
+
+
+The chain grows heavier with each step, a burden of sentiment that I carry with me, unbidden and unrelenting. Each link is a recollection, a piece of the past that binds me tighter, restricting my movements, my freedom. I used to think that sentimentality was a gift, a treasure trove of beautiful memories, but now it feels more like a shackle, keeping me chained to an illusion.
+
+The past, in all its glory and heartache, has become a prison. And as I look around at the present, I wonder if I’ll ever truly escape, or if I’ll forever be caught in the chains of my own making, reliving a past that exists only in the confines of my memory.
+
+The photographs—they sit there, still and silent, but what stories do they really tell? Of love lost or merely misplaced? Of lives lived or just imagined? The faces in those images, frozen in their fleeting moments, seem to whisper, "We are gone, but we were once here.", leaving me in cage wishing to fly where they are...
+
+<figure style="text-align: center;">
+<img src="https://raw.githubusercontent.com/Anvi98/anvi98.github.io/master/assets/images/faded_memories_by_berkozturk.jpg" alt="Repeat image" width="300"/>
+    <br />    
+    <figcaption>Faded memories by Berkozturk. 
+    </figcaption>
+</figure>
+
+
