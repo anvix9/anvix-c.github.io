@@ -44,7 +44,7 @@ The past, in all its glory and heartache, has become a prison. And as I look aro
 <br/>
 
 <p style="text-align: justify;">
-The photographs—they sit there, still and silent, but what stories do they really tell? Of love lost or <mark>merely misplaced</mark>? Of lives lived or <mark>just imagined</mark>? The faces in those images, frozen in their fleeting moments, seem to whisper, "We are gone, but we were once here.", leaving me in cage nourishing my fantasies...
+The photographs—they sit there, still and silent, but what stories do they really tell? Of love lost or <mark>merely misplaced</mark>? Of lives lived or <mark>just imagined</mark>? The faces in those images, frozen in their fleeting moments, seem to whisper, "We are gone, but we were once here.", leaving me in cage nourishing my fading reveries...
 </p>
 <br/><br/>
 
