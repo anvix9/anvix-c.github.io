@@ -1,7 +1,7 @@
 # Welcome to Jekyll Paper for Github
 #
 # This is the configuration file for your blog, please change these items after forked.
-
+remote_theme: Jekyll-Paper
 title: Pinealai 
 email: e.anvi@pinealai.net
 name: Anvi Alex Eponon 
